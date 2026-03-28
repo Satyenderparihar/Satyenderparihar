@@ -4,6 +4,10 @@
   <img src="./banner.png" alt="Trading Wala Guru Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satyenderparihar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ## 🚀 About Me
 I am a passionate **Trader, Investor, and Financial Educator**. My mission is to simplify the complex world of the stock market and help people achieve financial independence through structured learning.
 
@@ -13,19 +17,30 @@ I am a passionate **Trader, Investor, and Financial Educator**. My mission is to
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Activity Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Satyenderparihar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyenderparihar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyenderparihar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🛠️ My Mastery
+## 🛠️ Skills & Expertise
+
+### 📈 Trading & Finance
 <p align="left">
   <img src="https://img.shields.io/badge/Stock%20Market-Expert-success?style=for-the-badge&logo=fluent" alt="Stock Market">
   <img src="https://img.shields.io/badge/Options%20Trading-Advanced-blue?style=for-the-badge&logo=target" alt="Options Trading">
   <img src="https://img.shields.io/badge/Personal%20Finance-Advisor-orange?style=for-the-badge&logo=moneygram" alt="Personal Finance">
+  <img src="https://img.shields.io/badge/Technical%20Analysis-Price%20Action-yellow?style=for-the-badge&logo=chartdotjs" alt="Technical Analysis">
+</p>
+
+### 💻 Tech & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 
 ---
@@ -38,20 +53,20 @@ A complete, structured roadmap for anyone wanting to learn the stock market from
 
 ## 📬 Connect with Me
 <p align="left">
-  <a href="https://github.com/Satyenderparihar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://youtube.com/@SatyenderParihar" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://t.me/Satyamotivation" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://wa.me/917976305274" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://www.instagram.com/satya_motivation?utm_source=qr&igsh=amxtc3FiNXhzcmVm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.facebook.com/share/18DVYhUP53/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://wa.me/917976305274" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://t.me/Satyamotivation" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
