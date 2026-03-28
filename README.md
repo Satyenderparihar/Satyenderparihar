@@ -80,6 +80,12 @@ I am on a mission to simplify the complex world of the stock market and help peo
 
 ---
 
+## 🎥 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 ## 📬 Connect with Me
 <p align="center">
   <a href="https://youtube.com/@SatyenderParihar" target="_blank">
