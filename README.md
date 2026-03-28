@@ -41,9 +41,12 @@ A complete, structured roadmap for anyone wanting to learn the stock market from
   <a href="https://github.com/Satyenderparihar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <!-- Add your links below by editing this file -->
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <a href="https://www.instagram.com/satya_motivation?utm_source=qr&igsh=amxtc3FiNXhzcmVm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/share/18DVYhUP53/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 </p>
 
 ---
