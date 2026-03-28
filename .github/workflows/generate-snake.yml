@@ -15,8 +15,8 @@ jobs:
         with:
           github_user_name: Satyenderparihar
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#e5b567&color_dots=#f3f4f6,#fde68a,#fcd34d,#fbbf24,#f59e0b
+            dist/github-snake-dark.svg?color_snake=#e5b567&color_dots=#161b22,#4a3a1d,#7c6131,#b58d47,#e5b567
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3a7ce2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Satyender+Parihar!+👋;Trader,+Investor,+%26+Financial+Educator;Creator+of+Trading+Wala+Guru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E5B567&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Satyender+Parihar!+👋;Trader,+Investor,+%26+Financial+Educator;Creator+of+Trading+Wala+Guru" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,18 +7,20 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satyenderparihar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Satyenderparihar&label=Profile%20Views&color=e5b567&style=for-the-badge&labelColor=111111" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🔥 About Me
+**Full-Time Trader 📊 | Pure Price Action ⚡ | Smart Money Concepts 🧠**
+
 I am on a mission to simplify the complex world of the stock market and help people achieve financial independence through structured learning.
 
-- 📘 Creator of **[Trading Wala Guru](https://github.com/Satyenderparihar/Trading-Wala-Guru)** - A comprehensive 100% Free Trading Course.
-- 📈 Expert in **Technical Analysis, F&O Strategies, and Personal Finance**.
+- 🎯 **Target:** 5K/day Consistent Growth
+- 💬 **DM for Learning:** Ready to elevate your trading game? Reach out!
+- 📘 **Creator of [Trading Wala Guru](https://github.com/Satyenderparihar/Trading-Wala-Guru)** - A comprehensive 100% Free Trading Course.
 - 🇮🇳 Dedicated to improving financial literacy in India.
-- 🎯 **Currently Focusing On:** Algorithmic Trading & Advanced Quantitative Methods.
 
 ---
 
@@ -33,8 +35,8 @@ I am on a mission to simplify the complex world of the stock market and help peo
 
 ## 📊 Analytics & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyenderparihar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyenderparihar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyenderparihar&show_icons=true&bg_color=0D1117&title_color=E5B567&text_color=EFEFEF&icon_color=E5B567&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyenderparihar&background=0D1117&ring=E5B567&fire=E5B567&currStreakNum=EFEFEF&sideNums=EFEFEF&currStreakLabel=E5B567&sideLabels=E5B567&dates=EFEFEF&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <br>
@@ -53,11 +55,11 @@ I am on a mission to simplify the complex world of the stock market and help peo
 
 ### 📈 Trading & Finance
 <p align="left">
-  <img src="https://img.shields.io/badge/Stock%20Market-Expert-success?style=for-the-badge&logo=fluent" alt="Stock Market">
-  <img src="https://img.shields.io/badge/Options%20Trading-Advanced-blue?style=for-the-badge&logo=target" alt="Options Trading">
-  <img src="https://img.shields.io/badge/Personal%20Finance-Advisor-orange?style=for-the-badge&logo=moneygram" alt="Personal Finance">
-  <img src="https://img.shields.io/badge/Technical%20Analysis-Price%20Action-yellow?style=for-the-badge&logo=chartdotjs" alt="Technical Analysis">
-  <img src="https://img.shields.io/badge/Algorithmic_Trading-Intermediate-blueviolet?style=for-the-badge&logo=robot" alt="Algo Trading">
+  <img src="https://img.shields.io/badge/Stock%20Market-Expert-E5B567?style=for-the-badge&logo=fluent&logoColor=111" alt="Stock Market">
+  <img src="https://img.shields.io/badge/Options%20Trading-Advanced-E5B567?style=for-the-badge&logo=target&logoColor=111" alt="Options Trading">
+  <img src="https://img.shields.io/badge/Personal%20Finance-Advisor-E5B567?style=for-the-badge&logo=moneygram&logoColor=111" alt="Personal Finance">
+  <img src="https://img.shields.io/badge/Technical%20Analysis-Price%20Action-E5B567?style=for-the-badge&logo=chartdotjs&logoColor=111" alt="Technical Analysis">
+  <img src="https://img.shields.io/badge/Smart%20Money%20Concepts-Trader-E5B567?style=for-the-badge&logo=codeigniter&logoColor=111" alt="SMC Trading">
 </p>
 
 ### 💻 Tech & Tools
@@ -66,7 +68,7 @@ I am on a mission to simplify the complex world of the stock market and help peo
     <img src="https://skillicons.dev/icons?i=py,github,md,vscode,windows,discord,notion" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView">
+  <img src="https://img.shields.io/badge/TradingView-E5B567?style=for-the-badge&logo=tradingview&logoColor=111" alt="TradingView">
 </p>
 
 ---
@@ -74,7 +76,7 @@ I am on a mission to simplify the complex world of the stock market and help peo
 ## 🔥 Top Project
 <p align="center">
   <a href="https://github.com/Satyenderparihar/Trading-Wala-Guru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyenderparihar&repo=Trading-Wala-Guru&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyenderparihar&repo=Trading-Wala-Guru&bg_color=0D1117&title_color=E5B567&text_color=EFEFEF&icon_color=E5B567&hide_border=true&show_owner=true" />
   </a>
 </p>
 
@@ -106,5 +108,5 @@ I am on a mission to simplify the complex world of the stock market and help peo
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=%22The+best+investment+you+can+make+is...%22;%22...an+investment+in+yourself.%22+-+Warren+Buffett" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E5B567&center=true&vCenter=true&width=600&lines=%22The+best+investment+you+can+make+is...%22;%22...an+investment+in+yourself.%22+-+Warren+Buffett" alt="Quote" />
 </p>
