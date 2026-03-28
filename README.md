@@ -24,6 +24,28 @@ I am on a mission to simplify the complex world of the stock market and help peo
 
 ---
 
+## 🧠 Smart Money Concept (SMC) Masterclass
+
+<details>
+<summary><b>🔥 Click to read: What is a Fair Value Gap (FVG)?</b></summary>
+<br>
+
+A **Fair Value Gap (FVG)** is one of the most powerful concepts in Smart Money trading. It occurs when a large injection of institutional volume causes the price to move rapidly, leaving a gap between the wicks of the surrounding candles. 
+
+### How to Spot an FVG (3-Candle Formation):
+1. **Candle 1:** The starting point.
+2. **Candle 2:** A massive institutional displacement candle.
+3. **Candle 3:** The third candle's wick does **NOT overlap** with the first candle's wick.
+
+*(The empty space left between Candle 1's high and Candle 3's low is the Fair Value Gap!)*
+
+### How to Trade it 🎯
+The market is drawn to FVGs like a magnet. When the price retraces back into this gap, it usually rebalances the inefficiency before continuing its original massive trend. **Look for your entries inside the FVG zone to ride the institutional wave!**
+
+</details>
+
+---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
