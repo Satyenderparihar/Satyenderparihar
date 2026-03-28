@@ -25,6 +25,26 @@ I am a passionate **Trader, Investor, and Financial Educator**. My mission is to
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Satyenderparihar&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyenderparihar/Satyenderparihar/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satyenderparihar/Satyenderparihar/output/dist/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Satyenderparihar/Satyenderparihar/output/dist/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
 ## 🛠️ Skills & Expertise
 
 ### 📈 Trading & Finance
