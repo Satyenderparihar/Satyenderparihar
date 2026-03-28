@@ -50,7 +50,7 @@ A complete, structured roadmap for anyone wanting to learn the stock market from
   <a href="https://wa.me/917976305274" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://t.me/SatyamotivationA" target="_blank">
+  <a href="https://t.me/Satyamotivation" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
