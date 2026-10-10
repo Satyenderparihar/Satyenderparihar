@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E5B567&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Satyender+Parihar!+👋;Trader,+Investor,+%26+Financial+Educator;Creator+of+Trading+Wala+Guru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E5B567&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Satyender+Parihar!+👋;Trader,+Investor,+%26+Financial+Educator;Creator+of+Genius+Trading+Wallah" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="./banner.png" alt="Trading Wala Guru Banner" width="100%">
+  <img src="./banner.png" alt="Genius Trading Wallah Banner" width="100%">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ I am on a mission to simplify the complex world of the stock market and help peo
 
 - 🎯 **Target:** 5K/day Consistent Growth
 - 💬 **DM for Learning:** Ready to elevate your trading game? Reach out!
-- 📘 **Creator of [Trading Wala Guru](https://github.com/Satyenderparihar/Trading-Wala-Guru)** - A comprehensive 100% Free Trading Course.
+- 📘 **Creator of [Genius Trading Wallah](https://github.com/Satyenderparihar/genius-trading-wallah)** - A comprehensive 100% Free Trading Course.
 - 🇮🇳 Dedicated to improving financial literacy in India.
 
 ---
@@ -97,8 +97,8 @@ The market is drawn to FVGs like a magnet. When the price retraces back into thi
 
 ## 🔥 Top Project
 <p align="center">
-  <a href="https://github.com/Satyenderparihar/Trading-Wala-Guru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyenderparihar&repo=Trading-Wala-Guru&bg_color=0D1117&title_color=E5B567&text_color=EFEFEF&icon_color=E5B567&hide_border=true&show_owner=true" />
+  <a href="https://github.com/Satyenderparihar/genius-trading-wallah">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyenderparihar&repo=genius-trading-wallah&bg_color=0D1117&title_color=E5B567&text_color=EFEFEF&icon_color=E5B567&hide_border=true&show_owner=true" />
   </a>
 </p>
 
