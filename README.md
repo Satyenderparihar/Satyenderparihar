@@ -72,6 +72,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📚 5. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**system-design-primer**](https://github.com/Satyenderparihar/system-design-primer) | 🛠️ Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | Python | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
 | [**public-apis**](https://github.com/Satyenderparihar/public-apis) | 📚 A collective list of free APIs | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**build-your-own-x**](https://github.com/Satyenderparihar/build-your-own-x) | 📚 Master programming by recreating your favorite technologies from scratch. | Markdown | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**awesome-free-apps**](https://github.com/Satyenderparihar/awesome-free-apps) | 📚 Curated list of the best free apps for PC and mobile | JavaScript | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
