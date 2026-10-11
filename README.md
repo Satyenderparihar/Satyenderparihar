@@ -72,6 +72,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📚 5. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**coding-interview-university**](https://github.com/Satyenderparihar/coding-interview-university) | 🛠️ A complete computer science study plan to become a software engineer. | Multi-Stack | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
 | [**free-programming-books**](https://github.com/Satyenderparihar/free-programming-books) | 📚 :books: Freely available programming books | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**awesome-python**](https://github.com/Satyenderparihar/awesome-python) | 📚 The definitive list that answers "I want to do X in Python, which tool should I use?" | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**system-design-primer**](https://github.com/Satyenderparihar/system-design-primer) | 🛠️ Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | Python | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
