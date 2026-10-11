@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=E5B567&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Satyender+Parihar!+⚡;Founder+%26+Lead+Trader+at+Genius+Trading+Wallah;Pure+Price+Action+%7C+Smart+Money+Concepts+(SMC);Algorithmic+Pine+Script+%26+Cloud+Automation;Empowering+100%2C000%2B+Indian+Traders" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=E5B567&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Satyender+Parihar!+⚡;Founder+%26+Lead+Trader+at+Genius+Trading+Wallah;Pure+Price+Action+%7C+Smart+Money+Concepts+(SMC);Free+LLM+Tokens+%7C+Quant+%26+Cloud+Automations;Empowering+100%2C000%2B+Indian+Traders" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,18 +18,19 @@
 ## 🏛️ Executive Summary & Mission
 **Full-Time Trader 📊 | Pure Price Action ⚡ | Smart Money Concepts 🧠 | Quant & Cloud Builder ☁️**
 
-I am on an unyielding mission to bridge the gap between institutional market mechanics and retail traders across India. Trading is not gambling — it is probability, liquidity engineering, and disciplined risk execution.
+I am on an unyielding mission to bridge the gap between institutional market mechanics, free cutting-edge AI technologies, and retail builders across India. Trading is not gambling — it is probability, liquidity engineering, and disciplined risk execution.
 
 - 🎯 **Target:** Consistent Systematic Alpha with strict 1:3+ Risk-to-Reward.
 - 📘 **Founder of [Genius Trading Wallah](https://github.com/Satyenderparihar/Genius-Trading-Wallah):** A comprehensive 100% Free Open-Source 15-Module Trading Masterclass (880+ lessons).
-- 💬 **DM for Mentorship & Inquiries:** Ready to elevate your market execution? Reach out on Telegram / WhatsApp!
+- ⚡ **Zero-Cost AI Architect:** Leveraging open-source free token routers, 34+ free LLM providers, and serverless automation pipelines.
+- 💬 **DM for Mentorship & Inquiries:** Ready to elevate your execution? Reach out on Telegram / WhatsApp!
 - 🇮🇳 Dedicated to elevating financial literacy and wealth independence in India.
 
 ---
 
 ## 🗂️ Curated Repository Catalog (व्यवस्थित रिपोजिटरी डायरेक्टरी)
 
-> *नीचे सभी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 4 मुख्य श्रेणियों में व्यवस्थित किया गया है:*
+> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 5 मुख्य श्रेणियों में व्यवस्थित किया गया है:*
 
 ### 📈 1. Financial Markets & Trading Systems (ट्रेडिंग एवं फिनटेक)
 | Repository | Description & Highlights | Core Stack | Status |
@@ -38,7 +39,17 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ---
 
-### 🤖 2. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
+### 🎁 2. Free LLM Tokens & Zero-Cost AI Routing (फ्री टोकन्स एवं AI राउटर्स)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**freellmapi**](https://github.com/Satyenderparihar/freellmapi) | ⚡ 7.4 Billion free tokens/month router across 34 free providers & 635 endpoints behind one OpenAI-compatible /v1 endpoint. | TypeScript, Node.js, Fastify, Docker | ![High Value](https://img.shields.io/badge/7.4B%20Tokens-00ff88?style=flat-square) |
+| [**gpt4free**](https://github.com/Satyenderparihar/gpt4free) | 🔥 Official gpt4free engine — access top-tier LLMs (Claude, GPT, DeepSeek, Gemini) without API subscription costs. | Python, AsyncIO, Multi-Provider | ![Popular](https://img.shields.io/badge/66k%20Stars-ffd700?style=flat-square) |
+| [**free-for-dev**](https://github.com/Satyenderparihar/free-for-dev) | 🌐 Massive curated encyclopedia of every SaaS, PaaS, IaaS & API service offering free developer tiers and credits. | Markdown, Open Directory | ![Essential](https://img.shields.io/badge/85k%20Stars-00e5ff?style=flat-square) |
+| [**Claude-Code-Unlimited-Workflow**](https://github.com/Satyenderparihar/Claude-Code-Unlimited-Workflow) | ⚡ High-speed, unlimited Claude Code developer workflow with Astro, Tailwind v4 and built-in engineering agent skills. | Astro, TypeScript, Tailwind v4 | ![Active](https://img.shields.io/badge/Workflow-ff007f?style=flat-square) |
+
+---
+
+### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
 | [**awesome-llm-apps-Ai-Agents**](https://github.com/Satyenderparihar/awesome-llm-apps-Ai-Agents) | 🤖 Curated collection of cutting-edge AI Agent architectures, autonomous reasoning loops & multi-agent systems. | Python, LangChain, CrewAI, AutoGen | ![Maintained](https://img.shields.io/badge/Curated-00e5ff?style=flat-square) |
@@ -47,7 +58,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ---
 
-### ⚡ 3. Workflow Automation & Low-Code Pipelines (वर्कफ़्लो ऑटोमेशन)
+### ⚡ 4. Workflow Automation & Low-Code Pipelines (वर्कफ़्लो ऑटोमेशन)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
 | [**n8n-workflow-templates**](https://github.com/Satyenderparihar/n8n-workflow-templates) | ⚡ Production-ready n8n workflow automation templates for AI agents, multi-model LLMs, webhooks & CRM sync. | n8n, Webhooks, REST APIs, JSON | ![Production](https://img.shields.io/badge/Templates-00ff88?style=flat-square) |
@@ -55,7 +66,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ---
 
-### 📚 4. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)
+### 📚 5. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
 | [**Useful-Websites**](https://github.com/Satyenderparihar/Useful-Websites) | 🌐 Hand-curated directory of essential developer tools, free API suites, design resources & trading utilities. | Markdown, Curated Links, DevTools | ![Directory](https://img.shields.io/badge/Directory-ffd700?style=flat-square) |
