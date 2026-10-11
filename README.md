@@ -72,6 +72,8 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📚 5. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**freeCodeCamp**](https://github.com/Satyenderparihar/freeCodeCamp) | ⚡ FreeCodeCamp.org open-source codebase and curriculum for learning to code | TypeScript | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
+| [**developer-roadmap**](https://github.com/Satyenderparihar/developer-roadmap) | ⚡ Interactive roadmaps, guides and other educational content for developers | TypeScript | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
 | [**project-based-learning**](https://github.com/Satyenderparihar/project-based-learning) | 📚 Curated list of project-based tutorials | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**coding-interview-university**](https://github.com/Satyenderparihar/coding-interview-university) | 🛠️ A complete computer science study plan to become a software engineer. | Multi-Stack | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
 | [**free-programming-books**](https://github.com/Satyenderparihar/free-programming-books) | 📚 :books: Freely available programming books | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
