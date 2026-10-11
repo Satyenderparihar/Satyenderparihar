@@ -52,6 +52,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**generative-ai-for-beginners**](https://github.com/Satyenderparihar/generative-ai-for-beginners) | 🤖 21 In-Depth Lessons, Get Started Building with Generative AI (Microsoft Curriculum). | Jupyter Notebook, Python, LLMs | ![Curriculum](https://img.shields.io/badge/Curriculum-7928ca?style=flat-square) |
 | [**awesome-llm-apps-Ai-Agents**](https://github.com/Satyenderparihar/awesome-llm-apps-Ai-Agents) | 🤖 Curated collection of cutting-edge AI Agent architectures, autonomous reasoning loops & multi-agent systems. | Python, LangChain, CrewAI, AutoGen | ![Maintained](https://img.shields.io/badge/Curated-00e5ff?style=flat-square) |
 | [**Hands-On-LLM-Study**](https://github.com/Satyenderparihar/Hands-On-LLM-Study) | 🧠 Comprehensive study guide covering Transformer architectures, RAG vector search, Fine-Tuning (LoRA) & alignment. | Python, PyTorch, Transformers, RAG | ![Educational](https://img.shields.io/badge/Study%20Guide-ffd700?style=flat-square) |
 | [**handsOnLLM**](https://github.com/Satyenderparihar/handsOnLLM) | 💻 Practical Jupyter notebooks, code implementations, vector DB indexing & open-source LLM experimentation. | Python, Jupyter, LlamaIndex, FAISS | ![Lab](https://img.shields.io/badge/Code%20Lab-ff007f?style=flat-square) |
@@ -207,8 +208,3 @@ The market is drawn to FVGs like a magnet. When the price retraces back into thi
 <p align="center">
   <sub>© 2026 <b>Genius Trading Wallah</b>. Designed for Precision, Discipline & Consistency.</sub>
 </p>
-
-### 🤖 3. Hands-On LLM & Multi-Agent Systems (AI लैब्स एवं एजेंट्स)
-| Repository | Description | Core Stack | Status |
-|---|---|---|:---:|
-| [**generative-ai-for-beginners**](https://github.com/Satyenderparihar/generative-ai-for-beginners) | 🤖 21 Lessons, Get Started Building with Generative AI  | Jupyter Notebook | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
