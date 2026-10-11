@@ -18,12 +18,65 @@
 ## 🏛️ Executive Summary & Mission
 **Full-Time Trader 📊 | Pure Price Action ⚡ | Smart Money Concepts 🧠 | Quant & Cloud Builder ☁️**
 
-I am on an unyielding mission to bridge the gap between institutional market mechanics and retail traders across India. Trading is not gambling — it is probability, liquidity engineering, and ruthless risk control.
+I am on an unyielding mission to bridge the gap between institutional market mechanics and retail traders across India. Trading is not gambling — it is probability, liquidity engineering, and disciplined risk execution.
 
 - 🎯 **Target:** Consistent Systematic Alpha with strict 1:3+ Risk-to-Reward.
 - 📘 **Founder of [Genius Trading Wallah](https://github.com/Satyenderparihar/Genius-Trading-Wallah):** A comprehensive 100% Free Open-Source 15-Module Trading Masterclass (880+ lessons).
 - 💬 **DM for Mentorship & Inquiries:** Ready to elevate your market execution? Reach out on Telegram / WhatsApp!
 - 🇮🇳 Dedicated to elevating financial literacy and wealth independence in India.
+
+---
+
+## 🗂️ Curated Repository Catalog (व्यवस्थित रिपोजिटरी डायरेक्टरी)
+
+> *नीचे सभी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 4 मुख्य श्रेणियों में व्यवस्थित किया गया है:*
+
+### 📈 1. Financial Markets & Trading Systems (ट्रेडिंग एवं फिनटेक)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**Genius-Trading-Wallah**](https://github.com/Satyenderparihar/Genius-Trading-Wallah) | 🏛️ 100% Free Indian Stock Market, Forex, F&O & SMC Masterclass (880+ Lessons, Cheat Sheets & Pine Scripts). | Markdown, MkDocs, Pine Script v5 | ![Active](https://img.shields.io/badge/Flagship-00ff88?style=flat-square) |
+
+---
+
+### 🤖 2. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**awesome-llm-apps-Ai-Agents**](https://github.com/Satyenderparihar/awesome-llm-apps-Ai-Agents) | 🤖 Curated collection of cutting-edge AI Agent architectures, autonomous reasoning loops & multi-agent systems. | Python, LangChain, CrewAI, AutoGen | ![Maintained](https://img.shields.io/badge/Curated-00e5ff?style=flat-square) |
+| [**Hands-On-LLM-Study**](https://github.com/Satyenderparihar/Hands-On-LLM-Study) | 🧠 Comprehensive study guide covering Transformer architectures, RAG vector search, Fine-Tuning (LoRA) & alignment. | Python, PyTorch, Transformers, RAG | ![Educational](https://img.shields.io/badge/Study%20Guide-ffd700?style=flat-square) |
+| [**handsOnLLM**](https://github.com/Satyenderparihar/handsOnLLM) | 💻 Practical Jupyter notebooks, code implementations, vector DB indexing & open-source LLM experimentation. | Python, Jupyter, LlamaIndex, FAISS | ![Lab](https://img.shields.io/badge/Code%20Lab-ff007f?style=flat-square) |
+
+---
+
+### ⚡ 3. Workflow Automation & Low-Code Pipelines (वर्कफ़्लो ऑटोमेशन)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**n8n-workflow-templates**](https://github.com/Satyenderparihar/n8n-workflow-templates) | ⚡ Production-ready n8n workflow automation templates for AI agents, multi-model LLMs, webhooks & CRM sync. | n8n, Webhooks, REST APIs, JSON | ![Production](https://img.shields.io/badge/Templates-00ff88?style=flat-square) |
+| [**n8n-workflows**](https://github.com/Satyenderparihar/n8n-workflows) | 🐳 Enterprise-grade automated pipeline suite with custom Docker containers, Python API server & background jobs. | Docker, Python, FastAPI, n8n | ![System](https://img.shields.io/badge/Engine-00e5ff?style=flat-square) |
+
+---
+
+### 📚 4. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**Useful-Websites**](https://github.com/Satyenderparihar/Useful-Websites) | 🌐 Hand-curated directory of essential developer tools, free API suites, design resources & trading utilities. | Markdown, Curated Links, DevTools | ![Directory](https://img.shields.io/badge/Directory-ffd700?style=flat-square) |
+| [**Pragramming**](https://github.com/Satyenderparihar/Pragramming) | 📚 Massive collection of free programming books, system design roadmaps & computer science curriculum. | Markdown, Open Educational Resources | ![Library](https://img.shields.io/badge/Library-9cf?style=flat-square) |
+
+---
+
+## 🎬 Cloud Auto-Pilot Spotlight (विशेष ऑटोमेशन बॉट)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="60%" align="center">
+        <a href="https://github.com/Satyenderparihar/instagram-reels-notifier">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyenderparihar&repo=instagram-reels-notifier&bg_color=0D1117&title_color=E5B567&text_color=EFEFEF&icon_color=00e5ff&hide_border=true&show_owner=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p><sub>⚡ <b>24/7 Cloud Auto-Pilot Instagram Reels Tracker & Telegram Notifier</b> — Runs serverless on GitHub Actions cron with zero PC runtime dependency.</sub></p>
+</div>
 
 ---
 
@@ -55,27 +108,6 @@ The market is drawn to FVGs like a magnet. When the price retraces back into thi
 - **Liquidity Sweep:** When price aggressively punctures previous Equal Highs (BSL) or Equal Lows (SSL) to trigger retail stop losses before violently reversing in the true direction.
 
 </details>
-
----
-
-## 🏆 Featured Repositories
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Satyenderparihar/Genius-Trading-Wallah">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyenderparihar&repo=Genius-Trading-Wallah&bg_color=0D1117&title_color=E5B567&text_color=EFEFEF&icon_color=00ff88&hide_border=true&show_owner=true" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Satyenderparihar/instagram-reels-notifier">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyenderparihar&repo=instagram-reels-notifier&bg_color=0D1117&title_color=E5B567&text_color=EFEFEF&icon_color=00e5ff&hide_border=true&show_owner=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
