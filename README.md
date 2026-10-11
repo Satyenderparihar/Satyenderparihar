@@ -207,3 +207,8 @@ The market is drawn to FVGs like a magnet. When the price retraces back into thi
 <p align="center">
   <sub>© 2026 <b>Genius Trading Wallah</b>. Designed for Precision, Discipline & Consistency.</sub>
 </p>
+
+### 🤖 3. Hands-On LLM & Multi-Agent Systems (AI लैब्स एवं एजेंट्स)
+| Repository | Description | Core Stack | Status |
+|---|---|---|:---:|
+| [**generative-ai-for-beginners**](https://github.com/Satyenderparihar/generative-ai-for-beginners) | 🤖 21 Lessons, Get Started Building with Generative AI  | Jupyter Notebook | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
