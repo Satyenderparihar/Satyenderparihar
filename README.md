@@ -52,6 +52,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**AppFlowy**](https://github.com/Satyenderparihar/AppFlowy) | 🤖 Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control  | Dart | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
 | [**Agent-Reach**](https://github.com/Satyenderparihar/Agent-Reach) | 🤖 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP | Python | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
 | [**generative-ai-for-beginners**](https://github.com/Satyenderparihar/generative-ai-for-beginners) | 🤖 21 In-Depth Lessons, Get Started Building with Generative AI (Microsoft Curriculum). | Jupyter Notebook, Python, LLMs | ![Curriculum](https://img.shields.io/badge/Curriculum-7928ca?style=flat-square) |
 | [**awesome-llm-apps-Ai-Agents**](https://github.com/Satyenderparihar/awesome-llm-apps-Ai-Agents) | 🤖 Curated collection of cutting-edge AI Agent architectures, autonomous reasoning loops & multi-agent systems. | Python, LangChain, CrewAI, AutoGen | ![Maintained](https://img.shields.io/badge/Curated-00e5ff?style=flat-square) |
