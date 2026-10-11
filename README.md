@@ -72,7 +72,6 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📚 5. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**redesigned-pancake**](https://github.com/Satyenderparihar/redesigned-pancake) | 🛠️ Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Security Insights Merge branch 'main' into 1862 | Multi-Stack | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
 | [**awesome-free-apps**](https://github.com/Satyenderparihar/awesome-free-apps) | 📚 Curated list of the best free apps for PC and mobile | JavaScript | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**awesome-public-datasets**](https://github.com/Satyenderparihar/awesome-public-datasets) | 📚 A topic-centric list of HQ open datasets. | Multi-Stack | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**Useful-Websites**](https://github.com/Satyenderparihar/Useful-Websites) | 🌐 Hand-curated directory of essential developer tools, free API suites, design resources & trading utilities. | Markdown, Curated Links, DevTools | ![Directory](https://img.shields.io/badge/Directory-ffd700?style=flat-square) |
