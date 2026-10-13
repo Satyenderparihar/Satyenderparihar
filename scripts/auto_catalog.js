@@ -218,6 +218,13 @@ const CUSTOM_REPOS = {
     badge_text: 'Manychat Alt',
     badge_color: '00ff88'
   },
+  'instagram-agent-skill': {
+    category: 'automation',
+    desc: '📸 13 Claude Agent Skills for Instagram — 26 Proven Hook Formulas, Viral Reel Research, Caption Linter, Auto-Replies & Content Planner.',
+    stack: 'Python, Claude Skills, AI Agent',
+    badge_text: '13 IG Skills',
+    badge_color: '00ff88'
+  },
 
   // 5. Office & Productivity
   'wordcraft': {

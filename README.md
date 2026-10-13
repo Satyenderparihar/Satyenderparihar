@@ -72,6 +72,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### ⚡ 4. Workflow Automation & Low-Code Pipelines (वर्कफ़्लो ऑटोमेशन)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**instagram-agent-skill**](https://github.com/Satyenderparihar/instagram-agent-skill) | 📸 13 Claude Agent Skills for Instagram — 26 Proven Hook Formulas, Viral Reel Research, Caption Linter, Auto-Replies & Content Planner. | Python, Claude Skills, AI Agent | ![13 IG Skills](https://img.shields.io/badge/13%20IG%20Skills-00ff88?style=flat-square) |
 | [**openreply**](https://github.com/Satyenderparihar/openreply) | 💬 100% Free Manychat Alternative — Instagram Comment-to-DM, Follow-Gate, Multi-Account & CTR-Tracked Link Automation. | TypeScript, Next.js, Prisma, Docker | ![Manychat Alt](https://img.shields.io/badge/Manychat%20Alt-00ff88?style=flat-square) |
 | [**Scout**](https://github.com/Satyenderparihar/Scout) | 🎯 Free Multi-Platform Lead Generation Tool — Scrapes Instagram, LinkedIn, TikTok & Twitch, extracts bio emails & verifies via SMTP. | Python, Lead Gen, Scraper | ![Lead Gen](https://img.shields.io/badge/Lead%20Gen-00ff88?style=flat-square) |
 | [**n8n-workflows**](https://github.com/Satyenderparihar/n8n-workflows) | 🐳 Enterprise-grade automated pipeline suite with custom Docker containers, Python API server & background jobs. | Docker, Python, FastAPI, n8n | ![Engine](https://img.shields.io/badge/Engine-00e5ff?style=flat-square) |
