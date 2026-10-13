@@ -67,6 +67,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### ⚡ 4. Workflow Automation & Low-Code Pipelines (वर्कफ़्लो ऑटोमेशन)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**Scout**](https://github.com/Satyenderparihar/Scout) | 🎯 Free Multi-Platform Lead Generation Tool — Scrapes Instagram, LinkedIn, TikTok & Twitch, extracts bio emails & verifies via SMTP. | Python, Lead Gen, Scraper | ![Lead Gen](https://img.shields.io/badge/Lead%20Gen-00ff88?style=flat-square) |
 | [**n8n-workflows**](https://github.com/Satyenderparihar/n8n-workflows) | 🐳 Enterprise-grade automated pipeline suite with custom Docker containers, Python API server & background jobs. | Docker, Python, FastAPI, n8n | ![Engine](https://img.shields.io/badge/Engine-00e5ff?style=flat-square) |
 | [**n8n-workflow-templates**](https://github.com/Satyenderparihar/n8n-workflow-templates) | ⚡ Production-ready n8n workflow automation templates for AI agents, multi-model LLMs, webhooks & CRM sync. | n8n, Webhooks, REST APIs, JSON | ![Templates](https://img.shields.io/badge/Templates-00ff88?style=flat-square) |
 

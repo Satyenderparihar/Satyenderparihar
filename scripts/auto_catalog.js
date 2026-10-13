@@ -169,6 +169,13 @@ const CUSTOM_REPOS = {
     badge_text: '24/7 Cloud',
     badge_color: '00e5ff'
   },
+  'Scout': {
+    category: 'automation',
+    desc: '🎯 Free Multi-Platform Lead Generation Tool — Scrapes Instagram, LinkedIn, TikTok & Twitch, extracts bio emails & verifies via SMTP.',
+    stack: 'Python, Lead Gen, Scraper',
+    badge_text: 'Lead Gen',
+    badge_color: '00ff88'
+  },
 
   // 5. Office & Productivity
   'wordcraft': {
