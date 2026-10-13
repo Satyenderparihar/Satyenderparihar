@@ -146,6 +146,13 @@ const CUSTOM_REPOS = {
     badge_text: 'Code Lab',
     badge_color: 'ff007f'
   },
+  'beyondwords': {
+    category: 'ai_agents',
+    desc: '📚 Goal-Driven AI Book Production House for Amazon KDP — Niche Research, Auto-Book Writing, Formatting & Publishing via MCP Multi-Agents.',
+    stack: 'Python, MCP, Multi-Agent, KDP',
+    badge_text: 'AI Publisher',
+    badge_color: '7928ca'
+  },
 
   // 4. Automation
   'n8n-workflow-templates': {

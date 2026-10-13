@@ -54,6 +54,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**beyondwords**](https://github.com/Satyenderparihar/beyondwords) | 📚 Goal-Driven AI Book Production House for Amazon KDP — Niche Research, Auto-Book Writing, Formatting & Publishing via MCP Multi-Agents. | Python, MCP, Multi-Agent, KDP | ![AI Publisher](https://img.shields.io/badge/AI%20Publisher-7928ca?style=flat-square) |
 | [**open-dot**](https://github.com/Satyenderparihar/open-dot) | 🤖 Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio. | TypeScript | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**AppFlowy**](https://github.com/Satyenderparihar/AppFlowy) | 🤖 Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control. | Dart | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**Agent-Reach**](https://github.com/Satyenderparihar/Agent-Reach) | 🤖 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
