@@ -43,14 +43,21 @@ const CATEGORIES = [
     keywords: ['office', 'word', 'excel', 'powerpoint', 'wordcraft', 'gridcraft', 'deckcraft', 'photocraft', 'pdf', 'docx', 'xlsx', 'sheet', 'document', 'editor', 'productivity', 'writer']
   },
   {
+    id: 'cs_mastery',
+    title: '🎓 6. Computer Science, System Design & Developer Roadmaps (सॉफ्टवेयर इंजीनियरिंग एवं रोडमैप्स)',
+    default_badge: ['CS Mastery', '00e5ff'],
+    keywords: ['roadmap', 'system-design', 'interview', 'algorithms', 'command-line', 'guidelines']
+  },
+  {
     id: 'resources',
-    title: '📚 6. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)',
+    title: '📚 7. Open Directories & Knowledge Libraries (रिसोर्सेज एवं नॉलेज हब्स)',
     default_badge: ['Resources', 'ffd700'],
-    keywords: ['awesome', 'roadmap', 'interview', 'learning', 'books', 'datasets', 'apis', 'directory', 'cheatsheet', 'tutorial', 'curriculum', 'devtools', 'programming']
+    keywords: ['awesome', 'learning', 'books', 'datasets', 'apis', 'directory', 'cheatsheet', 'tutorial', 'curriculum', 'devtools', 'programming']
   }
 ];
 
 const CUSTOM_REPOS = {
+  // 1. Trading
   'Genius-Trading-Wallah': {
     category: 'trading',
     desc: '🏛️ 100% Free Indian Stock Market, Forex, F&O & SMC Masterclass (880+ Lessons, Cheat Sheets & Pine Scripts).',
@@ -58,6 +65,8 @@ const CUSTOM_REPOS = {
     badge_text: 'Flagship',
     badge_color: '00ff88'
   },
+
+  // 2. Free Tokens & Routing
   'freellmapi': {
     category: 'free_tokens',
     desc: '⚡ 7.4 Billion free tokens/month router across 34 free providers & 635 endpoints behind one OpenAI-compatible /v1 endpoint.',
@@ -86,6 +95,8 @@ const CUSTOM_REPOS = {
     badge_text: 'Workflow',
     badge_color: 'ff007f'
   },
+
+  // 3. AI Agents
   'open-dot': {
     category: 'ai_agents',
     desc: '🤖 Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.',
@@ -135,6 +146,8 @@ const CUSTOM_REPOS = {
     badge_text: 'Code Lab',
     badge_color: 'ff007f'
   },
+
+  // 4. Automation
   'n8n-workflow-templates': {
     category: 'automation',
     desc: '⚡ Production-ready n8n workflow automation templates for AI agents, multi-model LLMs, webhooks & CRM sync.',
@@ -156,6 +169,8 @@ const CUSTOM_REPOS = {
     badge_text: '24/7 Cloud',
     badge_color: '00e5ff'
   },
+
+  // 5. Office & Productivity
   'wordcraft': {
     category: 'office',
     desc: '📝 100% Free Pure Rust clean-room Microsoft Word alternative — Native .docx support, classic Ribbon UI, zero telemetry, lightning fast.',
@@ -163,48 +178,80 @@ const CUSTOM_REPOS = {
     badge_text: 'MS Word Alt',
     badge_color: '00ff88'
   },
-  'projects_realestate': {
-    category: 'resources',
-    desc: '🛠️ Build and Deploy a Real Estate React & Next.js Application.',
-    stack: 'JavaScript, React, Next.js',
-    badge_text: 'DevTools',
-    badge_color: '00e5ff'
-  },
-  'freeCodeCamp': {
-    category: 'resources',
-    desc: '⚡ FreeCodeCamp.org open-source codebase and curriculum for learning to code.',
-    stack: 'TypeScript, Full-Stack',
-    badge_text: 'DevTools',
-    badge_color: '00e5ff'
-  },
+
+  // 6. Computer Science, System Design & Roadmaps (The 10 Interconnected Pillars)
   'developer-roadmap': {
-    category: 'resources',
-    desc: '⚡ Interactive roadmaps, guides and other educational content for developers.',
-    stack: 'TypeScript, Web Guides',
-    badge_text: 'DevTools',
+    category: 'cs_mastery',
+    desc: '🧭 Interactive community-driven developer roadmaps, study plans and guides for modern software engineers.',
+    stack: 'TypeScript, React, Guides',
+    badge_text: 'Roadmaps',
     badge_color: '00e5ff'
   },
-  'project-based-learning': {
-    category: 'resources',
-    desc: '📚 Curated list of project-based tutorials in diverse programming languages.',
-    stack: 'Python, Multi-Stack',
-    badge_text: 'Resources',
-    badge_color: 'ffd700'
+  'system-design-primer': {
+    category: 'cs_mastery',
+    desc: '🏛️ Master large-scale distributed system design. Comprehensive interview prep & real-world architectures.',
+    stack: 'Python, Distributed Systems',
+    badge_text: 'System Design',
+    badge_color: '00ff88'
   },
   'coding-interview-university': {
-    category: 'resources',
-    desc: '🛠️ A complete computer science study plan to become a software engineer.',
-    stack: 'Multi-Stack, CS Fundamentals',
-    badge_text: 'DevTools',
-    badge_color: '00e5ff'
+    category: 'cs_mastery',
+    desc: '🎓 Complete multi-month computer science study curriculum to crack top engineering & FAANG interviews.',
+    stack: 'CS Fundamentals, Multi-Stack',
+    badge_text: 'CS Curriculum',
+    badge_color: '7928ca'
   },
-  'free-programming-books': {
-    category: 'resources',
-    desc: '📚 Freely available programming books, courses & cheatsheets.',
-    stack: 'Open Directory, Books',
-    badge_text: 'Resources',
+  'javascript-algorithms': {
+    category: 'cs_mastery',
+    desc: '⚡ Algorithms & data structures implemented in JavaScript with deep explanations, complexity analysis & visual aids.',
+    stack: 'JavaScript, Algorithms, DSA',
+    badge_text: 'Algorithms',
     badge_color: 'ffd700'
   },
+  'build-your-own-x': {
+    category: 'cs_mastery',
+    desc: '🛠️ Master software engineering by recreating step-by-step your favorite technologies (Git, Docker, OS, DB, etc.) from scratch.',
+    stack: 'Markdown, Hands-on CS',
+    badge_text: 'Build from Scratch',
+    badge_color: 'ff007f'
+  },
+  'the-art-of-command-line': {
+    category: 'cs_mastery',
+    desc: '💻 Master the command line, in one page — essential Linux, macOS & Unix terminal techniques every engineer must know.',
+    stack: 'Bash, Shell, CLI',
+    badge_text: 'Terminal Mastery',
+    badge_color: '00e5ff'
+  },
+  'project-guidelines': {
+    category: 'cs_mastery',
+    desc: '📐 Comprehensive set of engineering best practices, project architecture standards & clean code conventions.',
+    stack: 'Engineering Standards, JS/TS',
+    badge_text: 'Best Practices',
+    badge_color: '00ff88'
+  },
+  'free-programming-books': {
+    category: 'cs_mastery',
+    desc: '📚 Curated directory of thousands of free programming books, courses, cheatsheets & CS literature in every language.',
+    stack: 'Open Directory, Books',
+    badge_text: 'Books & Courses',
+    badge_color: 'ffd700'
+  },
+  'public-apis': {
+    category: 'cs_mastery',
+    desc: '🌐 World\'s largest collective list of free developer APIs for web development, software engineering & app integration.',
+    stack: 'REST APIs, Open Data',
+    badge_text: 'Public APIs',
+    badge_color: '00e5ff'
+  },
+  'awesome': {
+    category: 'cs_mastery',
+    desc: '😎 Definitive curated list of awesome frameworks, libraries, developer tools and programming environments.',
+    stack: 'Markdown, Curated Links',
+    badge_text: 'Awesome Curated',
+    badge_color: 'ffd700'
+  },
+
+  // 7. General Developer Resources & Libraries
   'awesome-python': {
     category: 'resources',
     desc: '📚 The definitive list that answers "I want to do X in Python, which tool should I use?"',
@@ -212,44 +259,23 @@ const CUSTOM_REPOS = {
     badge_text: 'Resources',
     badge_color: 'ffd700'
   },
-  'system-design-primer': {
-    category: 'resources',
-    desc: '🛠️ Learn how to design large-scale systems. Prep for system design interviews.',
-    stack: 'Python, Distributed Systems',
-    badge_text: 'DevTools',
-    badge_color: '00e5ff'
-  },
-  'public-apis': {
-    category: 'resources',
-    desc: '📚 A collective list of free APIs for developers.',
-    stack: 'REST APIs, Open Data',
-    badge_text: 'Resources',
-    badge_color: 'ffd700'
-  },
-  'build-your-own-x': {
-    category: 'resources',
-    desc: '📚 Master programming by recreating your favorite technologies from scratch.',
-    stack: 'Markdown, Hands-on CS',
-    badge_text: 'Resources',
-    badge_color: 'ffd700'
-  },
   'awesome-free-apps': {
     category: 'resources',
-    desc: '📚 Curated list of the best free apps for PC and mobile.',
+    desc: '📚 Curated list of the best free software & utilities for PC and mobile.',
     stack: 'Curated Apps, Productivity',
     badge_text: 'Resources',
     badge_color: 'ffd700'
   },
   'awesome-public-datasets': {
     category: 'resources',
-    desc: '📚 A topic-centric list of high-quality open datasets for AI & ML.',
+    desc: '📚 High-quality open datasets for AI, machine learning and data science projects.',
     stack: 'Big Data, ML Datasets',
     badge_text: 'Resources',
     badge_color: 'ffd700'
   },
   'Useful-Websites': {
     category: 'resources',
-    desc: '🌐 Hand-curated directory of essential developer tools, free API suites, design resources & trading utilities.',
+    desc: '🌐 Hand-curated directory of essential developer tools, free API suites, design resources & utilities.',
     stack: 'Markdown, Curated Links',
     badge_text: 'Directory',
     badge_color: 'ffd700'
@@ -260,6 +286,27 @@ const CUSTOM_REPOS = {
     stack: 'Markdown, CS Library',
     badge_text: 'Library',
     badge_color: '9cf'
+  },
+  'projects_realestate': {
+    category: 'resources',
+    desc: '🛠️ Build and Deploy a Real Estate React & Next.js Application.',
+    stack: 'JavaScript, React, Next.js',
+    badge_text: 'DevTools',
+    badge_color: '00e5ff'
+  },
+  'project-based-learning': {
+    category: 'resources',
+    desc: '📚 Curated list of project-based tutorials in diverse programming languages.',
+    stack: 'Python, Multi-Stack',
+    badge_text: 'Resources',
+    badge_color: 'ffd700'
+  },
+  'freeCodeCamp': {
+    category: 'resources',
+    desc: '⚡ FreeCodeCamp.org open-source codebase and curriculum for learning to code.',
+    stack: 'TypeScript, Full-Stack',
+    badge_text: 'DevTools',
+    badge_color: '00e5ff'
   }
 };
 
@@ -357,7 +404,7 @@ function buildMarkdownCatalog(repos) {
   const lines = [
     '## 🗂️ Curated Repository Catalog (व्यवस्थित रिपोजिटरी डायरेक्टरी)',
     '',
-    '> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 6 मुख्य श्रेणियों में व्यवस्थित किया गया है (Auto-Synced via GitHub Actions):*',
+    '> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 7 मुख्य श्रेणियों में व्यवस्थित किया गया है (Auto-Synced via GitHub Actions):*',
     ''
   ];
 

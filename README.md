@@ -32,7 +32,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ## 🗂️ Curated Repository Catalog (व्यवस्थित रिपोजिटरी डायरेक्टरी)
 
-> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 6 मुख्य श्रेणियों में व्यवस्थित किया गया है (Auto-Synced via GitHub Actions):*
+> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 7 मुख्य श्रेणियों में व्यवस्थित किया गया है (Auto-Synced via GitHub Actions):*
 
 ### 📈 1. Financial Markets & Trading Systems (ट्रेडिंग एवं फिनटेक)
 | Repository | Description & Highlights | Core Stack | Status |
@@ -79,24 +79,33 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ---
 
-### 📚 6. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)
+### 🎓 6. Computer Science, System Design & Developer Roadmaps (सॉफ्टवेयर इंजीनियरिंग एवं रोडमैप्स)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**project-guidelines**](https://github.com/Satyenderparihar/project-guidelines) | 📐 Comprehensive set of engineering best practices, project architecture standards & clean code conventions. | Engineering Standards, JS/TS | ![Best Practices](https://img.shields.io/badge/Best%20Practices-00ff88?style=flat-square) |
+| [**javascript-algorithms**](https://github.com/Satyenderparihar/javascript-algorithms) | ⚡ Algorithms & data structures implemented in JavaScript with deep explanations, complexity analysis & visual aids. | JavaScript, Algorithms, DSA | ![Algorithms](https://img.shields.io/badge/Algorithms-ffd700?style=flat-square) |
+| [**the-art-of-command-line**](https://github.com/Satyenderparihar/the-art-of-command-line) | 💻 Master the command line, in one page — essential Linux, macOS & Unix terminal techniques every engineer must know. | Bash, Shell, CLI | ![Terminal Mastery](https://img.shields.io/badge/Terminal%20Mastery-00e5ff?style=flat-square) |
+| [**awesome**](https://github.com/Satyenderparihar/awesome) | 😎 Definitive curated list of awesome frameworks, libraries, developer tools and programming environments. | Markdown, Curated Links | ![Awesome Curated](https://img.shields.io/badge/Awesome%20Curated-ffd700?style=flat-square) |
+| [**coding-interview-university**](https://github.com/Satyenderparihar/coding-interview-university) | 🎓 Complete multi-month computer science study curriculum to crack top engineering & FAANG interviews. | CS Fundamentals, Multi-Stack | ![CS Curriculum](https://img.shields.io/badge/CS%20Curriculum-7928ca?style=flat-square) |
+| [**free-programming-books**](https://github.com/Satyenderparihar/free-programming-books) | 📚 Curated directory of thousands of free programming books, courses, cheatsheets & CS literature in every language. | Open Directory, Books | ![Books & Courses](https://img.shields.io/badge/Books%20%26%20Courses-ffd700?style=flat-square) |
+| [**system-design-primer**](https://github.com/Satyenderparihar/system-design-primer) | 🏛️ Master large-scale distributed system design. Comprehensive interview prep & real-world architectures. | Python, Distributed Systems | ![System Design](https://img.shields.io/badge/System%20Design-00ff88?style=flat-square) |
+| [**public-apis**](https://github.com/Satyenderparihar/public-apis) | 🌐 World's largest collective list of free developer APIs for web development, software engineering & app integration. | REST APIs, Open Data | ![Public APIs](https://img.shields.io/badge/Public%20APIs-00e5ff?style=flat-square) |
+| [**developer-roadmap**](https://github.com/Satyenderparihar/developer-roadmap) | 🧭 Interactive community-driven developer roadmaps, study plans and guides for modern software engineers. | TypeScript, React, Guides | ![Roadmaps](https://img.shields.io/badge/Roadmaps-00e5ff?style=flat-square) |
+| [**build-your-own-x**](https://github.com/Satyenderparihar/build-your-own-x) | 🛠️ Master software engineering by recreating step-by-step your favorite technologies (Git, Docker, OS, DB, etc.) from scratch. | Markdown, Hands-on CS | ![Build from Scratch](https://img.shields.io/badge/Build%20from%20Scratch-ff007f?style=flat-square) |
+
+---
+
+### 📚 7. Open Directories & Knowledge Libraries (रिसोर्सेज एवं नॉलेज हब्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
 | [**projects_realestate**](https://github.com/Satyenderparihar/projects_realestate) | 🛠️ Build and Deploy a Real Estate React & Next.js Application. | JavaScript, React, Next.js | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
 | [**project-based-learning**](https://github.com/Satyenderparihar/project-based-learning) | 📚 Curated list of project-based tutorials in diverse programming languages. | Python, Multi-Stack | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**freeCodeCamp**](https://github.com/Satyenderparihar/freeCodeCamp) | ⚡ FreeCodeCamp.org open-source codebase and curriculum for learning to code. | TypeScript, Full-Stack | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
-| [**awesome**](https://github.com/Satyenderparihar/awesome) | ⚡ 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | Multi-Stack | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**coding-interview-university**](https://github.com/Satyenderparihar/coding-interview-university) | 🛠️ A complete computer science study plan to become a software engineer. | Multi-Stack, CS Fundamentals | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
-| [**free-programming-books**](https://github.com/Satyenderparihar/free-programming-books) | 📚 Freely available programming books, courses & cheatsheets. | Open Directory, Books | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**awesome-python**](https://github.com/Satyenderparihar/awesome-python) | 📚 The definitive list that answers "I want to do X in Python, which tool should I use?" | Python Ecosystem | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**system-design-primer**](https://github.com/Satyenderparihar/system-design-primer) | 🛠️ Learn how to design large-scale systems. Prep for system design interviews. | Python, Distributed Systems | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
-| [**public-apis**](https://github.com/Satyenderparihar/public-apis) | 📚 A collective list of free APIs for developers. | REST APIs, Open Data | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**developer-roadmap**](https://github.com/Satyenderparihar/developer-roadmap) | ⚡ Interactive roadmaps, guides and other educational content for developers. | TypeScript, Web Guides | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
-| [**build-your-own-x**](https://github.com/Satyenderparihar/build-your-own-x) | 📚 Master programming by recreating your favorite technologies from scratch. | Markdown, Hands-on CS | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**awesome-free-apps**](https://github.com/Satyenderparihar/awesome-free-apps) | 📚 Curated list of the best free apps for PC and mobile. | Curated Apps, Productivity | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**awesome-public-datasets**](https://github.com/Satyenderparihar/awesome-public-datasets) | 📚 A topic-centric list of high-quality open datasets for AI & ML. | Big Data, ML Datasets | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**awesome-free-apps**](https://github.com/Satyenderparihar/awesome-free-apps) | 📚 Curated list of the best free software & utilities for PC and mobile. | Curated Apps, Productivity | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**awesome-public-datasets**](https://github.com/Satyenderparihar/awesome-public-datasets) | 📚 High-quality open datasets for AI, machine learning and data science projects. | Big Data, ML Datasets | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**Pragramming**](https://github.com/Satyenderparihar/Pragramming) | 📚 Massive collection of free programming books, system design roadmaps & computer science curriculum. | Markdown, CS Library | ![Library](https://img.shields.io/badge/Library-9cf?style=flat-square) |
-| [**Useful-Websites**](https://github.com/Satyenderparihar/Useful-Websites) | 🌐 Hand-curated directory of essential developer tools, free API suites, design resources & trading utilities. | Markdown, Curated Links | ![Directory](https://img.shields.io/badge/Directory-ffd700?style=flat-square) |
+| [**Useful-Websites**](https://github.com/Satyenderparihar/Useful-Websites) | 🌐 Hand-curated directory of essential developer tools, free API suites, design resources & utilities. | Markdown, Curated Links | ![Directory](https://img.shields.io/badge/Directory-ffd700?style=flat-square) |
 
 ---
 
