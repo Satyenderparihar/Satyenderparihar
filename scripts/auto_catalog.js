@@ -109,6 +109,27 @@ const CUSTOM_REPOS = {
     badge_text: 'Token Saver',
     badge_color: '00ff88'
   },
+  'gemini-web2api': {
+    category: 'free_tokens',
+    desc: '⚡ Convert Google Gemini Web into OpenAI-Compatible API — Zero Auth, Single File, Unlimited Free Tokens for Antigravity & Claude Code.',
+    stack: 'Python, FastAPI, Gemini Web, Reverse Proxy',
+    badge_text: 'Gemini Web2API',
+    badge_color: '00ff88'
+  },
+  'Antigravity-Manager': {
+    category: 'free_tokens',
+    desc: '⚡ Professional Antigravity Account Manager & Switcher — 1-Click Multi-Account Switch, Auto HTTP 429 Failover & Process Manager.',
+    stack: 'Rust, Tauri v2, React, TypeScript',
+    badge_text: 'Account Manager',
+    badge_color: '00ff88'
+  },
+  'antigravity-account-switcher': {
+    category: 'free_tokens',
+    desc: '⚡ Lightweight Antigravity Account Switcher Extension — Seamlessly cycle profiles upon quota limits, secure DPAPI credential vault.',
+    stack: 'TypeScript, VS Code Extension, OAuth',
+    badge_text: 'Account Switcher',
+    badge_color: '00e5ff'
+  },
 
   // 3. AI Agents
   'open-dot': {
@@ -180,6 +201,27 @@ const CUSTOM_REPOS = {
     stack: 'TypeScript, Meta-Skill, Agent Loop',
     badge_text: 'Task Observer',
     badge_color: 'ff007f'
+  },
+  'Roo-Code': {
+    category: 'ai_agents',
+    desc: '👥 AI Developer Team in Code Editor — Multi-agent roles (Architect, Code, Debug, Custom Modes) working together autonomously.',
+    stack: 'TypeScript, VS Code Extension, Multi-Agent',
+    badge_text: 'AI Dev Team',
+    badge_color: 'ff007f'
+  },
+  'get-shit-done': {
+    category: 'ai_agents',
+    desc: '⚡ Spec-Driven Development & Context Engineering Framework — Combats context rot in large projects with phased planning & verification.',
+    stack: 'TypeScript, Meta-Prompting, Spec-Driven',
+    badge_text: 'GSD Framework',
+    badge_color: '7928ca'
+  },
+  'ralph': {
+    category: 'ai_agents',
+    desc: '🔄 Autonomous AI Agent Loop — Runs AI coding assistants repeatedly with clean contexts until all PRD specification tasks are 100% complete.',
+    stack: 'Shell, Python, Autonomous Loop, Git',
+    badge_text: 'Ralph Loop',
+    badge_color: '7928ca'
   },
 
   // 4. Automation
