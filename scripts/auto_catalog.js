@@ -95,6 +95,13 @@ const CUSTOM_REPOS = {
     badge_text: 'Workflow',
     badge_color: 'ff007f'
   },
+  'OmniRoute': {
+    category: 'free_tokens',
+    desc: '⚡ Universal Free AI Gateway — 1 Endpoint, 359 Providers (150+ Free), 1200+ Models with Auto-Fallback & 15-95% Token Compression.',
+    stack: 'TypeScript, Fastify, AI-Gateway, PWA',
+    badge_text: '359 Providers',
+    badge_color: '00ff88'
+  },
 
   // 3. AI Agents
   'open-dot': {
