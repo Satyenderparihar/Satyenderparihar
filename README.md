@@ -44,6 +44,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎁 2. Free LLM Tokens & Zero-Cost AI Routing (फ्री टोकन्स एवं AI राउटर्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**headroom**](https://github.com/Satyenderparihar/headroom) | ⚡ AI Prompt & Context Compression Engine for Claude Code — Compresses tool outputs, diffs & logs to save millions of tokens. | Rust, Python, Proxy, MCP | ![Token Saver](https://img.shields.io/badge/Token%20Saver-00ff88?style=flat-square) |
 | [**OmniRoute**](https://github.com/Satyenderparihar/OmniRoute) | ⚡ Universal Free AI Gateway — 1 Endpoint, 359 Providers (150+ Free), 1200+ Models with Auto-Fallback & 15-95% Token Compression. | TypeScript, Fastify, AI-Gateway, PWA | ![359 Providers](https://img.shields.io/badge/359%20Providers-00ff88?style=flat-square) |
 | [**gpt4free**](https://github.com/Satyenderparihar/gpt4free) | 🔥 Official gpt4free engine — access top-tier LLMs (Claude, GPT, DeepSeek, Gemini) without API subscription costs. | Python, AsyncIO, Multi-Provider | ![66k Stars](https://img.shields.io/badge/66k%20Stars-ffd700?style=flat-square) |
 | [**free-for-dev**](https://github.com/Satyenderparihar/free-for-dev) | 🌐 Massive curated encyclopedia of every SaaS, PaaS, IaaS & API service offering free developer tiers and credits. | Markdown, Open Directory | ![85k Stars](https://img.shields.io/badge/85k%20Stars-00e5ff?style=flat-square) |
@@ -55,6 +56,8 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**one-skill-to-rule-them-all**](https://github.com/Satyenderparihar/one-skill-to-rule-them-all) | 👁️ Task Observer & Meta-Skill for Claude Code — Observes coding workflows, captures corrections, and auto-generates custom skills for repeated tasks. | TypeScript, Meta-Skill, Agent Loop | ![Task Observer](https://img.shields.io/badge/Task%20Observer-ff007f?style=flat-square) |
+| [**claude-mem**](https://github.com/Satyenderparihar/claude-mem) | 🧠 Persistent Context & Long-Term Memory for Claude Code & AI Coding Agents — Captures session actions & automatically injects past context. | TypeScript, AI Memory, Vector DB | ![Memory Agent](https://img.shields.io/badge/Memory%20Agent-7928ca?style=flat-square) |
 | [**beyondwords**](https://github.com/Satyenderparihar/beyondwords) | 📚 Goal-Driven AI Book Production House for Amazon KDP — Niche Research, Auto-Book Writing, Formatting & Publishing via MCP Multi-Agents. | Python, MCP, Multi-Agent, KDP | ![AI Publisher](https://img.shields.io/badge/AI%20Publisher-7928ca?style=flat-square) |
 | [**open-dot**](https://github.com/Satyenderparihar/open-dot) | 🤖 Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio. | TypeScript | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**AppFlowy**](https://github.com/Satyenderparihar/AppFlowy) | 🤖 Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control. | Dart | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |

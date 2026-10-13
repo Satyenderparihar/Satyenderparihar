@@ -102,6 +102,13 @@ const CUSTOM_REPOS = {
     badge_text: '359 Providers',
     badge_color: '00ff88'
   },
+  'headroom': {
+    category: 'free_tokens',
+    desc: '⚡ AI Prompt & Context Compression Engine for Claude Code — Compresses tool outputs, diffs & logs to save millions of tokens.',
+    stack: 'Rust, Python, Proxy, MCP',
+    badge_text: 'Token Saver',
+    badge_color: '00ff88'
+  },
 
   // 3. AI Agents
   'open-dot': {
@@ -159,6 +166,20 @@ const CUSTOM_REPOS = {
     stack: 'Python, MCP, Multi-Agent, KDP',
     badge_text: 'AI Publisher',
     badge_color: '7928ca'
+  },
+  'claude-mem': {
+    category: 'ai_agents',
+    desc: '🧠 Persistent Context & Long-Term Memory for Claude Code & AI Coding Agents — Captures session actions & automatically injects past context.',
+    stack: 'TypeScript, AI Memory, Vector DB',
+    badge_text: 'Memory Agent',
+    badge_color: '7928ca'
+  },
+  'one-skill-to-rule-them-all': {
+    category: 'ai_agents',
+    desc: '👁️ Task Observer & Meta-Skill for Claude Code — Observes coding workflows, captures corrections, and auto-generates custom skills for repeated tasks.',
+    stack: 'TypeScript, Meta-Skill, Agent Loop',
+    badge_text: 'Task Observer',
+    badge_color: 'ff007f'
   },
 
   // 4. Automation
