@@ -176,6 +176,13 @@ const CUSTOM_REPOS = {
     badge_text: 'Lead Gen',
     badge_color: '00ff88'
   },
+  'openreply': {
+    category: 'automation',
+    desc: '💬 100% Free Manychat Alternative — Instagram Comment-to-DM, Follow-Gate, Multi-Account & CTR-Tracked Link Automation.',
+    stack: 'TypeScript, Next.js, Prisma, Docker',
+    badge_text: 'Manychat Alt',
+    badge_color: '00ff88'
+  },
 
   // 5. Office & Productivity
   'wordcraft': {
