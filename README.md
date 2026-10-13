@@ -30,7 +30,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ## 🗂️ Curated Repository Catalog (व्यवस्थित रिपोजिटरी डायरेक्टरी)
 
-> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 5 मुख्य श्रेणियों में व्यवस्थित किया गया है:*
+> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 6 मुख्य श्रेणियों में व्यवस्थित किया गया है:*
 
 ### 📈 1. Financial Markets & Trading Systems (ट्रेडिंग एवं फिनटेक)
 | Repository | Description & Highlights | Core Stack | Status |
@@ -90,19 +90,31 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ---
 
-## 🎬 Cloud Auto-Pilot Spotlight (विशेष ऑटोमेशन बॉट)
+### 📝 6. Free Office Suites & Desktop Productivity (फ्री ऑफिस एवं प्रोडक्टिविटी टूल्स)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**wordcraft**](https://github.com/Satyenderparihar/wordcraft) | 📝 100% Free Pure Rust clean-room Microsoft Word alternative — Native .docx support, classic Ribbon UI, zero telemetry, lightning fast desktop app. | Rust, Native Win32, docx | ![Office](https://img.shields.io/badge/MS%20Word%20Alt-00ff88?style=flat-square) |
+
+---
+
+## 🎬 Featured Innovations Spotlight (विशेष हाईलाइट्स)
 
 <div align="center">
   <table border="0">
     <tr>
-      <td width="60%" align="center">
+      <td width="50%" align="center">
         <a href="https://github.com/Satyenderparihar/instagram-reels-notifier">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyenderparihar&repo=instagram-reels-notifier&bg_color=0D1117&title_color=E5B567&text_color=EFEFEF&icon_color=00e5ff&hide_border=true&show_owner=true" />
         </a>
       </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Satyenderparihar/wordcraft">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyenderparihar&repo=wordcraft&bg_color=0D1117&title_color=E5B567&text_color=EFEFEF&icon_color=00ff88&hide_border=true&show_owner=true" />
+        </a>
+      </td>
     </tr>
   </table>
-  <p><sub>⚡ <b>24/7 Cloud Auto-Pilot Instagram Reels Tracker & Telegram Notifier</b> — Runs serverless on GitHub Actions cron with zero PC runtime dependency.</sub></p>
+  <p><sub>⚡ <b>Instagram Reels Tracker</b> (Serverless Cloud Notifier) &nbsp;|&nbsp; 📝 <b>WordCraft</b> (100% Free Pure Rust MS Word Reimplementation)</sub></p>
 </div>
 
 ---
