@@ -28,74 +28,80 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ---
 
+<!-- AUTO-CATALOG:START -->
+
 ## 🗂️ Curated Repository Catalog (व्यवस्थित रिपोजिटरी डायरेक्टरी)
 
-> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 6 मुख्य श्रेणियों में व्यवस्थित किया गया है:*
+> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 6 मुख्य श्रेणियों में व्यवस्थित किया गया है (Auto-Synced via GitHub Actions):*
 
 ### 📈 1. Financial Markets & Trading Systems (ट्रेडिंग एवं फिनटेक)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**Genius-Trading-Wallah**](https://github.com/Satyenderparihar/Genius-Trading-Wallah) | 🏛️ 100% Free Indian Stock Market, Forex, F&O & SMC Masterclass (880+ Lessons, Cheat Sheets & Pine Scripts). | Markdown, MkDocs, Pine Script v5 | ![Active](https://img.shields.io/badge/Flagship-00ff88?style=flat-square) |
+| [**Genius-Trading-Wallah**](https://github.com/Satyenderparihar/Genius-Trading-Wallah) | 🏛️ 100% Free Indian Stock Market, Forex, F&O & SMC Masterclass (880+ Lessons, Cheat Sheets & Pine Scripts). | Markdown, MkDocs, Pine Script v5 | ![Flagship](https://img.shields.io/badge/Flagship-00ff88?style=flat-square) |
 
 ---
 
 ### 🎁 2. Free LLM Tokens & Zero-Cost AI Routing (फ्री टोकन्स एवं AI राउटर्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**freellmapi**](https://github.com/Satyenderparihar/freellmapi) | ⚡ 7.4 Billion free tokens/month router across 34 free providers & 635 endpoints behind one OpenAI-compatible /v1 endpoint. | TypeScript, Node.js, Fastify, Docker | ![High Value](https://img.shields.io/badge/7.4B%20Tokens-00ff88?style=flat-square) |
-| [**gpt4free**](https://github.com/Satyenderparihar/gpt4free) | 🔥 Official gpt4free engine — access top-tier LLMs (Claude, GPT, DeepSeek, Gemini) without API subscription costs. | Python, AsyncIO, Multi-Provider | ![Popular](https://img.shields.io/badge/66k%20Stars-ffd700?style=flat-square) |
-| [**free-for-dev**](https://github.com/Satyenderparihar/free-for-dev) | 🌐 Massive curated encyclopedia of every SaaS, PaaS, IaaS & API service offering free developer tiers and credits. | Markdown, Open Directory | ![Essential](https://img.shields.io/badge/85k%20Stars-00e5ff?style=flat-square) |
-| [**Claude-Code-Unlimited-Workflow**](https://github.com/Satyenderparihar/Claude-Code-Unlimited-Workflow) | ⚡ High-speed, unlimited Claude Code developer workflow with Astro, Tailwind v4 and built-in engineering agent skills. | Astro, TypeScript, Tailwind v4 | ![Active](https://img.shields.io/badge/Workflow-ff007f?style=flat-square) |
+| [**gpt4free**](https://github.com/Satyenderparihar/gpt4free) | 🔥 Official gpt4free engine — access top-tier LLMs (Claude, GPT, DeepSeek, Gemini) without API subscription costs. | Python, AsyncIO, Multi-Provider | ![66k Stars](https://img.shields.io/badge/66k%20Stars-ffd700?style=flat-square) |
+| [**free-for-dev**](https://github.com/Satyenderparihar/free-for-dev) | 🌐 Massive curated encyclopedia of every SaaS, PaaS, IaaS & API service offering free developer tiers and credits. | Markdown, Open Directory | ![85k Stars](https://img.shields.io/badge/85k%20Stars-00e5ff?style=flat-square) |
+| [**Claude-Code-Unlimited-Workflow**](https://github.com/Satyenderparihar/Claude-Code-Unlimited-Workflow) | ⚡ High-speed, unlimited Claude Code developer workflow with Astro, Tailwind v4 and built-in engineering agent skills. | Astro, TypeScript, Tailwind v4 | ![Workflow](https://img.shields.io/badge/Workflow-ff007f?style=flat-square) |
+| [**freellmapi**](https://github.com/Satyenderparihar/freellmapi) | ⚡ 7.4 Billion free tokens/month router across 34 free providers & 635 endpoints behind one OpenAI-compatible /v1 endpoint. | TypeScript, Node.js, Fastify, Docker | ![7.4B Tokens](https://img.shields.io/badge/7.4B%20Tokens-00ff88?style=flat-square) |
 
 ---
 
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**open-dot**](https://github.com/Satyenderparihar/open-dot) | 🤖 Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio. | TypeScript | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
-| [**AppFlowy**](https://github.com/Satyenderparihar/AppFlowy) | 🤖 Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control  | Dart | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
-| [**Agent-Reach**](https://github.com/Satyenderparihar/Agent-Reach) | 🤖 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP | Python | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
+| [**open-dot**](https://github.com/Satyenderparihar/open-dot) | 🤖 Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio. | TypeScript | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
+| [**AppFlowy**](https://github.com/Satyenderparihar/AppFlowy) | 🤖 Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control. | Dart | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
+| [**Agent-Reach**](https://github.com/Satyenderparihar/Agent-Reach) | 🤖 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**generative-ai-for-beginners**](https://github.com/Satyenderparihar/generative-ai-for-beginners) | 🤖 21 In-Depth Lessons, Get Started Building with Generative AI (Microsoft Curriculum). | Jupyter Notebook, Python, LLMs | ![Curriculum](https://img.shields.io/badge/Curriculum-7928ca?style=flat-square) |
-| [**awesome-llm-apps-Ai-Agents**](https://github.com/Satyenderparihar/awesome-llm-apps-Ai-Agents) | 🤖 Curated collection of cutting-edge AI Agent architectures, autonomous reasoning loops & multi-agent systems. | Python, LangChain, CrewAI, AutoGen | ![Maintained](https://img.shields.io/badge/Curated-00e5ff?style=flat-square) |
-| [**Hands-On-LLM-Study**](https://github.com/Satyenderparihar/Hands-On-LLM-Study) | 🧠 Comprehensive study guide covering Transformer architectures, RAG vector search, Fine-Tuning (LoRA) & alignment. | Python, PyTorch, Transformers, RAG | ![Educational](https://img.shields.io/badge/Study%20Guide-ffd700?style=flat-square) |
-| [**handsOnLLM**](https://github.com/Satyenderparihar/handsOnLLM) | 💻 Practical Jupyter notebooks, code implementations, vector DB indexing & open-source LLM experimentation. | Python, Jupyter, LlamaIndex, FAISS | ![Lab](https://img.shields.io/badge/Code%20Lab-ff007f?style=flat-square) |
+| [**handsOnLLM**](https://github.com/Satyenderparihar/handsOnLLM) | 💻 Practical Jupyter notebooks, code implementations, vector DB indexing & open-source LLM experimentation. | Python, Jupyter, LlamaIndex, FAISS | ![Code Lab](https://img.shields.io/badge/Code%20Lab-ff007f?style=flat-square) |
+| [**Hands-On-LLM-Study**](https://github.com/Satyenderparihar/Hands-On-LLM-Study) | 🧠 Comprehensive study guide covering Transformer architectures, RAG vector search, Fine-Tuning (LoRA) & alignment. | Python, PyTorch, Transformers, RAG | ![Study Guide](https://img.shields.io/badge/Study%20Guide-ffd700?style=flat-square) |
+| [**awesome-llm-apps-Ai-Agents**](https://github.com/Satyenderparihar/awesome-llm-apps-Ai-Agents) | 🤖 Curated collection of cutting-edge AI Agent architectures, autonomous reasoning loops & multi-agent systems. | Python, LangChain, CrewAI, AutoGen | ![Curated](https://img.shields.io/badge/Curated-00e5ff?style=flat-square) |
 
 ---
 
 ### ⚡ 4. Workflow Automation & Low-Code Pipelines (वर्कफ़्लो ऑटोमेशन)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**n8n-workflow-templates**](https://github.com/Satyenderparihar/n8n-workflow-templates) | ⚡ Production-ready n8n workflow automation templates for AI agents, multi-model LLMs, webhooks & CRM sync. | n8n, Webhooks, REST APIs, JSON | ![Production](https://img.shields.io/badge/Templates-00ff88?style=flat-square) |
-| [**n8n-workflows**](https://github.com/Satyenderparihar/n8n-workflows) | 🐳 Enterprise-grade automated pipeline suite with custom Docker containers, Python API server & background jobs. | Docker, Python, FastAPI, n8n | ![System](https://img.shields.io/badge/Engine-00e5ff?style=flat-square) |
+| [**n8n-workflows**](https://github.com/Satyenderparihar/n8n-workflows) | 🐳 Enterprise-grade automated pipeline suite with custom Docker containers, Python API server & background jobs. | Docker, Python, FastAPI, n8n | ![Engine](https://img.shields.io/badge/Engine-00e5ff?style=flat-square) |
+| [**n8n-workflow-templates**](https://github.com/Satyenderparihar/n8n-workflow-templates) | ⚡ Production-ready n8n workflow automation templates for AI agents, multi-model LLMs, webhooks & CRM sync. | n8n, Webhooks, REST APIs, JSON | ![Templates](https://img.shields.io/badge/Templates-00ff88?style=flat-square) |
 
 ---
 
-### 📚 5. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)
+### 📝 5. Free Office Suites & Desktop Productivity (फ्री ऑफिस एवं प्रोडक्टिविटी टूल्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**projects_realestate**](https://github.com/Satyenderparihar/projects_realestate) | 🛠️ Build and Deploy a Real Estate React & Next.js Application | JavaScript | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
-| [**freeCodeCamp**](https://github.com/Satyenderparihar/freeCodeCamp) | ⚡ FreeCodeCamp.org open-source codebase and curriculum for learning to code | TypeScript | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
-| [**developer-roadmap**](https://github.com/Satyenderparihar/developer-roadmap) | ⚡ Interactive roadmaps, guides and other educational content for developers | TypeScript | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
-| [**project-based-learning**](https://github.com/Satyenderparihar/project-based-learning) | 📚 Curated list of project-based tutorials | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**coding-interview-university**](https://github.com/Satyenderparihar/coding-interview-university) | 🛠️ A complete computer science study plan to become a software engineer. | Multi-Stack | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
-| [**free-programming-books**](https://github.com/Satyenderparihar/free-programming-books) | 📚 :books: Freely available programming books | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**awesome-python**](https://github.com/Satyenderparihar/awesome-python) | 📚 The definitive list that answers "I want to do X in Python, which tool should I use?" | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**system-design-primer**](https://github.com/Satyenderparihar/system-design-primer) | 🛠️ Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | Python | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
-| [**public-apis**](https://github.com/Satyenderparihar/public-apis) | 📚 A collective list of free APIs | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**build-your-own-x**](https://github.com/Satyenderparihar/build-your-own-x) | 📚 Master programming by recreating your favorite technologies from scratch. | Markdown | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**awesome-free-apps**](https://github.com/Satyenderparihar/awesome-free-apps) | 📚 Curated list of the best free apps for PC and mobile | JavaScript | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**awesome-public-datasets**](https://github.com/Satyenderparihar/awesome-public-datasets) | 📚 A topic-centric list of HQ open datasets. | Multi-Stack | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
-| [**Useful-Websites**](https://github.com/Satyenderparihar/Useful-Websites) | 🌐 Hand-curated directory of essential developer tools, free API suites, design resources & trading utilities. | Markdown, Curated Links, DevTools | ![Directory](https://img.shields.io/badge/Directory-ffd700?style=flat-square) |
-| [**Pragramming**](https://github.com/Satyenderparihar/Pragramming) | 📚 Massive collection of free programming books, system design roadmaps & computer science curriculum. | Markdown, Open Educational Resources | ![Library](https://img.shields.io/badge/Library-9cf?style=flat-square) |
+| [**wordcraft**](https://github.com/Satyenderparihar/wordcraft) | 📝 100% Free Pure Rust clean-room Microsoft Word alternative — Native .docx support, classic Ribbon UI, zero telemetry, lightning fast. | Rust, Native Win32, docx | ![MS Word Alt](https://img.shields.io/badge/MS%20Word%20Alt-00ff88?style=flat-square) |
 
 ---
 
-### 📝 6. Free Office Suites & Desktop Productivity (फ्री ऑफिस एवं प्रोडक्टिविटी टूल्स)
+### 📚 6. Developer Directories & Knowledge Hubs (रिसोर्सेज एवं बुक्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**wordcraft**](https://github.com/Satyenderparihar/wordcraft) | 📝 100% Free Pure Rust clean-room Microsoft Word alternative — Native .docx support, classic Ribbon UI, zero telemetry, lightning fast desktop app. | Rust, Native Win32, docx | ![Office](https://img.shields.io/badge/MS%20Word%20Alt-00ff88?style=flat-square) |
+| [**projects_realestate**](https://github.com/Satyenderparihar/projects_realestate) | 🛠️ Build and Deploy a Real Estate React & Next.js Application. | JavaScript, React, Next.js | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
+| [**project-based-learning**](https://github.com/Satyenderparihar/project-based-learning) | 📚 Curated list of project-based tutorials in diverse programming languages. | Python, Multi-Stack | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**freeCodeCamp**](https://github.com/Satyenderparihar/freeCodeCamp) | ⚡ FreeCodeCamp.org open-source codebase and curriculum for learning to code. | TypeScript, Full-Stack | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
+| [**awesome**](https://github.com/Satyenderparihar/awesome) | ⚡ 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | Multi-Stack | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**coding-interview-university**](https://github.com/Satyenderparihar/coding-interview-university) | 🛠️ A complete computer science study plan to become a software engineer. | Multi-Stack, CS Fundamentals | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
+| [**free-programming-books**](https://github.com/Satyenderparihar/free-programming-books) | 📚 Freely available programming books, courses & cheatsheets. | Open Directory, Books | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**awesome-python**](https://github.com/Satyenderparihar/awesome-python) | 📚 The definitive list that answers "I want to do X in Python, which tool should I use?" | Python Ecosystem | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**system-design-primer**](https://github.com/Satyenderparihar/system-design-primer) | 🛠️ Learn how to design large-scale systems. Prep for system design interviews. | Python, Distributed Systems | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
+| [**public-apis**](https://github.com/Satyenderparihar/public-apis) | 📚 A collective list of free APIs for developers. | REST APIs, Open Data | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**developer-roadmap**](https://github.com/Satyenderparihar/developer-roadmap) | ⚡ Interactive roadmaps, guides and other educational content for developers. | TypeScript, Web Guides | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
+| [**build-your-own-x**](https://github.com/Satyenderparihar/build-your-own-x) | 📚 Master programming by recreating your favorite technologies from scratch. | Markdown, Hands-on CS | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**awesome-free-apps**](https://github.com/Satyenderparihar/awesome-free-apps) | 📚 Curated list of the best free apps for PC and mobile. | Curated Apps, Productivity | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**awesome-public-datasets**](https://github.com/Satyenderparihar/awesome-public-datasets) | 📚 A topic-centric list of high-quality open datasets for AI & ML. | Big Data, ML Datasets | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**Pragramming**](https://github.com/Satyenderparihar/Pragramming) | 📚 Massive collection of free programming books, system design roadmaps & computer science curriculum. | Markdown, CS Library | ![Library](https://img.shields.io/badge/Library-9cf?style=flat-square) |
+| [**Useful-Websites**](https://github.com/Satyenderparihar/Useful-Websites) | 🌐 Hand-curated directory of essential developer tools, free API suites, design resources & trading utilities. | Markdown, Curated Links | ![Directory](https://img.shields.io/badge/Directory-ffd700?style=flat-square) |
 
 ---
+
+
+<!-- AUTO-CATALOG:END -->
 
 ## 🎬 Featured Innovations Spotlight (विशेष हाईलाइट्स)
 
