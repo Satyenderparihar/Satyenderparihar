@@ -59,6 +59,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**youtube-agentic-ai-studio**](https://github.com/Satyenderparihar/youtube-agentic-ai-studio) | ⚡ A 100% free AI pipeline that researches, scripts, narrates, and uploads faceless YouTube videos — one command | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**Roo-Code**](https://github.com/Satyenderparihar/Roo-Code) | 👥 AI Developer Team in Code Editor — Multi-agent roles (Architect, Code, Debug, Custom Modes) working together autonomously. | TypeScript, VS Code Extension, Multi-Agent | ![AI Dev Team](https://img.shields.io/badge/AI%20Dev%20Team-ff007f?style=flat-square) |
 | [**ralph**](https://github.com/Satyenderparihar/ralph) | 🔄 Autonomous AI Agent Loop — Runs AI coding assistants repeatedly with clean contexts until all PRD specification tasks are 100% complete. | Shell, Python, Autonomous Loop, Git | ![Ralph Loop](https://img.shields.io/badge/Ralph%20Loop-7928ca?style=flat-square) |
 | [**get-shit-done**](https://github.com/Satyenderparihar/get-shit-done) | ⚡ Spec-Driven Development & Context Engineering Framework — Combats context rot in large projects with phased planning & verification. | TypeScript, Meta-Prompting, Spec-Driven | ![GSD Framework](https://img.shields.io/badge/GSD%20Framework-7928ca?style=flat-square) |
@@ -123,14 +124,6 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ---
 
-
-
-### 🎬 6. YouTube Automation & AI Media Studios (यूट्यूब एवं मीडिया ऑटोमेशन)
-| Repository | Description & Highlights | Core Stack | Status |
-|---|---|---|:---:|
-| [**youtube-agentic-ai-studio**](https://github.com/Satyenderparihar/youtube-agentic-ai-studio) | 🎬 A 100% free AI pipeline that researches, scripts, narrates, and uploads faceless YouTube videos — one command | Python | ![YouTube](https://img.shields.io/badge/YouTube--Studio-FF0000?style=flat-square&logo=youtube&logoColor=white) |
-
----
 
 <!-- AUTO-CATALOG:END -->
 
