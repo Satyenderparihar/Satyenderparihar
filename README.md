@@ -124,6 +124,14 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ---
 
+### 🎬 8. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**ytWatchBot**](https://github.com/Satyenderparihar/ytWatchBot) | 📺 Autonomous Telegram Bot for YouTube Channels — Real-time Channel Monitoring, Instant Video/Shorts/Livestream Alerts & PubSubHubbub Webhooks. | TypeScript, Node.js, Telegram Bot API, PubSub, MariaDB | ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-ff0000?style=flat-square) |
+| [**youtube-agentic-ai-studio**](https://github.com/Satyenderparihar/youtube-agentic-ai-studio) | 🎬 Fully Autonomous AI YouTube Studio — Automated Viral Research, Hindi Scriptwriting, Edge-TTS Narration, Dynamic Candlestick Visuals & Auto-Upload. | Python, Flask, Edge-TTS, MoviePy, Gemini Flash, FFmpeg | ![AI Studio](https://img.shields.io/badge/AI%20Studio-ff0000?style=flat-square) |
+
+---
+
 
 <!-- AUTO-CATALOG:END -->
 

@@ -50,6 +50,12 @@ CATEGORIES = [
         "default_badge": ("Resources", "ffd700"),
         "keywords": ["awesome", "roadmap", "interview", "learning", "books", "datasets", "apis", "directory", "cheatsheet", "tutorial", "curriculum", "devtools", "programming"],
     },
+    {
+        "id": "youtube_media",
+        "title": "🎬 7. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)",
+        "default_badge": ("YouTube Bot", "ff0000"),
+        "keywords": ["youtube", "ytwatchbot", "yt-watch-bot", "studio", "video", "shorts", "faceless", "media", "speech", "transcript", "caption"],
+    },
 ]
 
 # Custom curated metadata for top flagship repos to keep premium look
@@ -263,6 +269,20 @@ CUSTOM_REPOS = {
         "stack": "Markdown, CS Library",
         "badge_text": "Library",
         "badge_color": "9cf",
+    },
+    "youtube-agentic-ai-studio": {
+        "category": "youtube_media",
+        "desc": "🎬 Fully Autonomous AI YouTube Studio — Automated Viral Research, Hindi Scriptwriting, Edge-TTS Narration, Dynamic Candlestick Visuals & Auto-Upload.",
+        "stack": "Python, Flask, Edge-TTS, MoviePy, Gemini Flash, FFmpeg",
+        "badge_text": "AI Studio",
+        "badge_color": "ff0000",
+    },
+    "ytWatchBot": {
+        "category": "youtube_media",
+        "desc": "📺 Autonomous Telegram Bot for YouTube Channels — Real-time Channel Monitoring, Instant Video/Shorts/Livestream Alerts & PubSubHubbub Webhooks.",
+        "stack": "TypeScript, Node.js, Telegram Bot API, PubSub, MariaDB",
+        "badge_text": "Telegram Bot",
+        "badge_color": "ff0000",
     },
 }
 
