@@ -34,13 +34,6 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 > *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 7 मुख्य श्रेणियों में व्यवस्थित किया गया है (Auto-Synced via GitHub Actions):*
 
-### 📈 1. Financial Markets & Trading Systems (ट्रेडिंग एवं फिनटेक)
-| Repository | Description & Highlights | Core Stack | Status |
-|---|---|---|:---:|
-| [**Genius-Trading-Wallah**](https://github.com/Satyenderparihar/Genius-Trading-Wallah) | 🏛️ 100% Free Indian Stock Market, Forex, F&O & SMC Masterclass (880+ Lessons, Cheat Sheets & Pine Scripts). | Markdown, MkDocs, Pine Script v5 | ![Flagship](https://img.shields.io/badge/Flagship-00ff88?style=flat-square) |
-
----
-
 ### 🎁 2. Free LLM Tokens & Zero-Cost AI Routing (फ्री टोकन्स एवं AI राउटर्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
