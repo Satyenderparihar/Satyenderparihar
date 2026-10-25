@@ -105,6 +105,8 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📚 7. Open Directories & Knowledge Libraries (रिसोर्सेज एवं नॉलेज हब्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**Websites-Scrapes-Manually**](https://github.com/Satyenderparihar/Websites-Scrapes-Manually) | ⚡ 🌐 Curated Directory of Useful Websites, Media Streaming & Web Tools (Categorized & Deduplicated) | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**Websites-Scrapers**](https://github.com/Satyenderparihar/Websites-Scrapers) | ⚡ 🌐 Automated YouTube Websites & AI Tools Directory Scrapers — Categorized, Deduplicated & Auto-Synced | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**projects_realestate**](https://github.com/Satyenderparihar/projects_realestate) | 🛠️ Build and Deploy a Real Estate React & Next.js Application. | JavaScript, React, Next.js | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
 | [**project-based-learning**](https://github.com/Satyenderparihar/project-based-learning) | 📚 Curated list of project-based tutorials in diverse programming languages. | Python, Multi-Stack | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**freeCodeCamp**](https://github.com/Satyenderparihar/freeCodeCamp) | ⚡ FreeCodeCamp.org open-source codebase and curriculum for learning to code. | TypeScript, Full-Stack | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
