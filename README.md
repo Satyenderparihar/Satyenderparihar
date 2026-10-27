@@ -52,7 +52,6 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**replica-skill**](https://github.com/Satyenderparihar/replica-skill) | 🤖 Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | Python | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
 | [**Roo-Code**](https://github.com/Satyenderparihar/Roo-Code) | 👥 AI Developer Team in Code Editor — Multi-agent roles (Architect, Code, Debug, Custom Modes) working together autonomously. | TypeScript, VS Code Extension, Multi-Agent | ![AI Dev Team](https://img.shields.io/badge/AI%20Dev%20Team-ff007f?style=flat-square) |
 | [**ralph**](https://github.com/Satyenderparihar/ralph) | 🔄 Autonomous AI Agent Loop — Runs AI coding assistants repeatedly with clean contexts until all PRD specification tasks are 100% complete. | Shell, Python, Autonomous Loop, Git | ![Ralph Loop](https://img.shields.io/badge/Ralph%20Loop-7928ca?style=flat-square) |
 | [**get-shit-done**](https://github.com/Satyenderparihar/get-shit-done) | ⚡ Spec-Driven Development & Context Engineering Framework — Combats context rot in large projects with phased planning & verification. | TypeScript, Meta-Prompting, Spec-Driven | ![GSD Framework](https://img.shields.io/badge/GSD%20Framework-7928ca?style=flat-square) |
@@ -106,7 +105,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📚 7. Open Directories & Knowledge Libraries (रिसोर्सेज एवं नॉलेज हब्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**Websites-Scrapes-Manually**](https://github.com/Satyenderparihar/Websites-Scrapes-Manually) | ⚡ 🌐 Curated Directory of Useful Websites, Media Streaming & Web Tools (Categorized & Deduplicated) | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**Websites-Scrapes-Manually**](https://github.com/Satyenderparihar/Websites-Scrapes-Manually) | ⚡ 🌐 Curated Directory of Useful Websites, Media Streaming & Web Tools (Categorized & Deduplicated) | JavaScript | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**Websites-Scrapers**](https://github.com/Satyenderparihar/Websites-Scrapers) | ⚡ 🌐 Automated YouTube Websites & AI Tools Directory Scrapers — Categorized, Deduplicated & Auto-Synced | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**projects_realestate**](https://github.com/Satyenderparihar/projects_realestate) | 🛠️ Build and Deploy a Real Estate React & Next.js Application. | JavaScript, React, Next.js | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
 | [**project-based-learning**](https://github.com/Satyenderparihar/project-based-learning) | 📚 Curated list of project-based tutorials in diverse programming languages. | Python, Multi-Stack | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
@@ -122,6 +121,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎬 8. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**replica-skill**](https://github.com/Satyenderparihar/replica-skill) | ⚡ Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**ytWatchBot**](https://github.com/Satyenderparihar/ytWatchBot) | 📺 Autonomous Telegram Bot for YouTube Channels — Real-time Channel Monitoring, Instant Video/Shorts/Livestream Alerts & PubSubHubbub Webhooks. | TypeScript, Node.js, Telegram Bot API, PubSub, MariaDB | ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-ff0000?style=flat-square) |
 | [**youtube-agentic-ai-studio**](https://github.com/Satyenderparihar/youtube-agentic-ai-studio) | 🎬 Fully Autonomous AI YouTube Studio — Automated Viral Research, Hindi Scriptwriting, Edge-TTS Narration, Dynamic Candlestick Visuals & Auto-Upload. | Python, Flask, Edge-TTS, MoviePy, Gemini Flash, FFmpeg | ![AI Studio](https://img.shields.io/badge/AI%20Studio-ff0000?style=flat-square) |
 
