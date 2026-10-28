@@ -34,6 +34,13 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 > *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 7 मुख्य श्रेणियों में व्यवस्थित किया गया है (Auto-Synced via GitHub Actions):*
 
+### 📱 1. App Creation, AI Cloning & Reverse-Engineering (ऐप निर्माण एवं सॉफ्टवेयर क्लोनिंग)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**replica-skill**](https://github.com/Satyenderparihar/replica-skill) | 📱 11 Autonomous AI Skills to Clone & Rebuild Any App — Clean-Room Recon, Architecture, UI Design System, Backend, Database & Deploy. | Python, Claude Skills, Clean-Room | ![App Builder](https://img.shields.io/badge/App%20Builder-00e5ff?style=flat-square) |
+
+---
+
 ### 🎁 2. Free LLM Tokens & Zero-Cost AI Routing (फ्री टोकन्स एवं AI राउटर्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
@@ -121,7 +128,6 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎬 8. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**replica-skill**](https://github.com/Satyenderparihar/replica-skill) | ⚡ Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**ytWatchBot**](https://github.com/Satyenderparihar/ytWatchBot) | 📺 Autonomous Telegram Bot for YouTube Channels — Real-time Channel Monitoring, Instant Video/Shorts/Livestream Alerts & PubSubHubbub Webhooks. | TypeScript, Node.js, Telegram Bot API, PubSub, MariaDB | ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-ff0000?style=flat-square) |
 | [**youtube-agentic-ai-studio**](https://github.com/Satyenderparihar/youtube-agentic-ai-studio) | 🎬 Fully Autonomous AI YouTube Studio — Automated Viral Research, Hindi Scriptwriting, Edge-TTS Narration, Dynamic Candlestick Visuals & Auto-Upload. | Python, Flask, Edge-TTS, MoviePy, Gemini Flash, FFmpeg | ![AI Studio](https://img.shields.io/badge/AI%20Studio-ff0000?style=flat-square) |
 
