@@ -52,6 +52,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**rea**](https://github.com/Satyenderparihar/rea) | ⚡ Reverse engineer anything with agents, from app behavior down to native binaries. | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**how-to-vibecoding**](https://github.com/Satyenderparihar/how-to-vibecoding) | ⚡ Vibecoding 系列教程：从环境搭建到多智能体协作，涵盖 MCP、Skills、Agent 分工治理 | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**pentagi**](https://github.com/Satyenderparihar/pentagi) | ⚡ Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**Antigravity-to-API**](https://github.com/Satyenderparihar/Antigravity-to-API) | ⚡ Turn Antigravity into a local, OpenAI-compatible API and integrate it seamlessly with your own apps, tools, and AI agents. | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
@@ -125,6 +126,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎬 8. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**VideoRepoClonerApp**](https://github.com/Satyenderparihar/VideoRepoClonerApp) | ⚡ 📱 Android App: scan Instagram/YouTube videos & clone GitHub repos with 1-click delete — No 20MB limit! | HTML | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**mac-precision-touchpad**](https://github.com/Satyenderparihar/mac-precision-touchpad) | ⚡ Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**replica-skill**](https://github.com/Satyenderparihar/replica-skill) | ⚡ Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**ytWatchBot**](https://github.com/Satyenderparihar/ytWatchBot) | 📺 Autonomous Telegram Bot for YouTube Channels — Real-time Channel Monitoring, Instant Video/Shorts/Livestream Alerts & PubSubHubbub Webhooks. | TypeScript, Node.js, Telegram Bot API, PubSub, MariaDB | ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-ff0000?style=flat-square) |
