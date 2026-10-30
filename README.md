@@ -32,7 +32,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ## 🗂️ Curated Repository Catalog (व्यवस्थित रिपोजिटरी डायरेक्टरी)
 
-> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 9 मुख्य श्रेणियों में व्यवस्थित किया गया है:*
+> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 7 मुख्य श्रेणियों में व्यवस्थित किया गया है (Auto-Synced via GitHub Actions):*
 
 ### 🎁 2. Free LLM Tokens & Zero-Cost AI Routing (फ्री टोकन्स एवं AI राउटर्स)
 | Repository | Description & Highlights | Core Stack | Status |
@@ -40,7 +40,6 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 | [**OmniRoute**](https://github.com/Satyenderparihar/OmniRoute) | ⚡ Universal Free AI Gateway — 1 Endpoint, 359 Providers (150+ Free), 1200+ Models with Auto-Fallback & 15-95% Token Compression. | TypeScript, Fastify, AI-Gateway, PWA | ![359 Providers](https://img.shields.io/badge/359%20Providers-00ff88?style=flat-square) |
 | [**Antigravity-Manager**](https://github.com/Satyenderparihar/Antigravity-Manager) | ⚡ Professional Antigravity Account Manager & Switcher — 1-Click Multi-Account Switch, Auto HTTP 429 Failover & Process Manager. | Rust, Tauri v2, React, TypeScript | ![Account Manager](https://img.shields.io/badge/Account%20Manager-00ff88?style=flat-square) |
 | [**antigravity-account-switcher**](https://github.com/Satyenderparihar/antigravity-account-switcher) | ⚡ Lightweight Antigravity Account Switcher Extension — Seamlessly cycle profiles upon quota limits, secure DPAPI credential vault. | TypeScript, VS Code Extension, OAuth | ![Account Switcher](https://img.shields.io/badge/Account%20Switcher-00e5ff?style=flat-square) |
-| [**Antigravity-to-API**](https://github.com/Satyenderparihar/Antigravity-to-API) | ⚡ Turn Antigravity / AGY CLI into OpenAI-Compatible Local HTTP API Bridge with Memory Search & MCP Server — Unlimited Free AI Tokens. | Node.js, JavaScript, SQLite, MCP | ![Antigravity API](https://img.shields.io/badge/Antigravity%20API-00ff88?style=flat-square&logo=node.js&logoColor=white) |
 | [**gemini-web2api**](https://github.com/Satyenderparihar/gemini-web2api) | ⚡ Convert Google Gemini Web into OpenAI-Compatible API — Zero Auth, Single File, Unlimited Free Tokens for Antigravity & Claude Code. | Python, FastAPI, Gemini Web, Reverse Proxy | ![Gemini Web2API](https://img.shields.io/badge/Gemini%20Web2API-00ff88?style=flat-square) |
 | [**headroom**](https://github.com/Satyenderparihar/headroom) | ⚡ AI Prompt & Context Compression Engine for Claude Code — Compresses tool outputs, diffs & logs to save millions of tokens. | Rust, Python, Proxy, MCP | ![Token Saver](https://img.shields.io/badge/Token%20Saver-00ff88?style=flat-square) |
 | [**gpt4free**](https://github.com/Satyenderparihar/gpt4free) | 🔥 Official gpt4free engine — access top-tier LLMs (Claude, GPT, DeepSeek, Gemini) without API subscription costs. | Python, AsyncIO, Multi-Provider | ![66k Stars](https://img.shields.io/badge/66k%20Stars-ffd700?style=flat-square) |
@@ -53,9 +52,9 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**how-to-vibecoding**](https://github.com/Satyenderparihar/how-to-vibecoding) | 🤖 Vibecoding 系列教程：从环境搭建到多智能体协作，涵盖 MCP、Skills、Agent 分工治理 | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
-| [**pentagi**](https://github.com/Satyenderparihar/pentagi) | 🤖 Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
-| [**CLIProxyAPI**](https://github.com/Satyenderparihar/CLIProxyAPI) | 🤖 Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing | Go | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
+| [**how-to-vibecoding**](https://github.com/Satyenderparihar/how-to-vibecoding) | ⚡ Vibecoding 系列教程：从环境搭建到多智能体协作，涵盖 MCP、Skills、Agent 分工治理 | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
+| [**pentagi**](https://github.com/Satyenderparihar/pentagi) | ⚡ Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
+| [**Antigravity-to-API**](https://github.com/Satyenderparihar/Antigravity-to-API) | ⚡ Turn Antigravity into a local, OpenAI-compatible API and integrate it seamlessly with your own apps, tools, and AI agents. | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**Roo-Code**](https://github.com/Satyenderparihar/Roo-Code) | 👥 AI Developer Team in Code Editor — Multi-agent roles (Architect, Code, Debug, Custom Modes) working together autonomously. | TypeScript, VS Code Extension, Multi-Agent | ![AI Dev Team](https://img.shields.io/badge/AI%20Dev%20Team-ff007f?style=flat-square) |
 | [**ralph**](https://github.com/Satyenderparihar/ralph) | 🔄 Autonomous AI Agent Loop — Runs AI coding assistants repeatedly with clean contexts until all PRD specification tasks are 100% complete. | Shell, Python, Autonomous Loop, Git | ![Ralph Loop](https://img.shields.io/badge/Ralph%20Loop-7928ca?style=flat-square) |
 | [**get-shit-done**](https://github.com/Satyenderparihar/get-shit-done) | ⚡ Spec-Driven Development & Context Engineering Framework — Combats context rot in large projects with phased planning & verification. | TypeScript, Meta-Prompting, Spec-Driven | ![GSD Framework](https://img.shields.io/badge/GSD%20Framework-7928ca?style=flat-square) |
@@ -109,6 +108,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📚 7. Open Directories & Knowledge Libraries (रिसोर्सेज एवं नॉलेज हब्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**Android-Tools**](https://github.com/Satyenderparihar/Android-Tools) | ⚡ 📱 Curated & Categorized Android Power-User Tools, App Patchers, CarPlay Receivers & APK Builders | Kotlin | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**Websites-Scrapes-Manually**](https://github.com/Satyenderparihar/Websites-Scrapes-Manually) | ⚡ 🌐 Curated Directory of Useful Websites, Media Streaming & Web Tools (Categorized & Deduplicated) | JavaScript | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**Websites-Scrapers**](https://github.com/Satyenderparihar/Websites-Scrapers) | ⚡ 🌐 Automated YouTube Websites & AI Tools Directory Scrapers — Categorized, Deduplicated & Auto-Synced | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**projects_realestate**](https://github.com/Satyenderparihar/projects_realestate) | 🛠️ Build and Deploy a Real Estate React & Next.js Application. | JavaScript, React, Next.js | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
@@ -125,18 +125,13 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎬 8. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**mac-precision-touchpad**](https://github.com/Satyenderparihar/mac-precision-touchpad) | ⚡ Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**replica-skill**](https://github.com/Satyenderparihar/replica-skill) | ⚡ Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**ytWatchBot**](https://github.com/Satyenderparihar/ytWatchBot) | 📺 Autonomous Telegram Bot for YouTube Channels — Real-time Channel Monitoring, Instant Video/Shorts/Livestream Alerts & PubSubHubbub Webhooks. | TypeScript, Node.js, Telegram Bot API, PubSub, MariaDB | ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-ff0000?style=flat-square) |
 | [**youtube-agentic-ai-studio**](https://github.com/Satyenderparihar/youtube-agentic-ai-studio) | 🎬 Fully Autonomous AI YouTube Studio — Automated Viral Research, Hindi Scriptwriting, Edge-TTS Narration, Dynamic Candlestick Visuals & Auto-Upload. | Python, Flask, Edge-TTS, MoviePy, Gemini Flash, FFmpeg | ![AI Studio](https://img.shields.io/badge/AI%20Studio-ff0000?style=flat-square) |
 
 ---
 
-### 📱 9. Android Power-User Tools & Mobile Toolkits (एंड्रॉइड टूल्स एवं मोबाइल वर्कशॉप)
-| Repository | Description & Highlights | Core Stack | Status |
-|---|---|---|:---:|
-| [**Android-Tools**](https://github.com/Satyenderparihar/Android-Tools) | 📱 Curated & Categorized Android Power-User Suite — App Stores (komi-store), CarPlay Receivers (DiPlay), App Patchers (morphe-manager), Web-to-APK (web-to-app) & System Utilities (essentials). | Kotlin, Android SDK, Compose, Gradle | ![Android Tools](https://img.shields.io/badge/Android%20Tools-3DDC84?style=flat-square&logo=android&logoColor=white) |
-
----
 
 <!-- AUTO-CATALOG:END -->
 
