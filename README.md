@@ -53,6 +53,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**pentagi**](https://github.com/Satyenderparihar/pentagi) | 🤖 Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
 | [**CLIProxyAPI**](https://github.com/Satyenderparihar/CLIProxyAPI) | 🤖 Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing | Go | ![AI-Agent](https://img.shields.io/badge/AI--Agent-7928ca?style=flat-square) |
 | [**Roo-Code**](https://github.com/Satyenderparihar/Roo-Code) | 👥 AI Developer Team in Code Editor — Multi-agent roles (Architect, Code, Debug, Custom Modes) working together autonomously. | TypeScript, VS Code Extension, Multi-Agent | ![AI Dev Team](https://img.shields.io/badge/AI%20Dev%20Team-ff007f?style=flat-square) |
 | [**ralph**](https://github.com/Satyenderparihar/ralph) | 🔄 Autonomous AI Agent Loop — Runs AI coding assistants repeatedly with clean contexts until all PRD specification tasks are 100% complete. | Shell, Python, Autonomous Loop, Git | ![Ralph Loop](https://img.shields.io/badge/Ralph%20Loop-7928ca?style=flat-square) |
