@@ -32,7 +32,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ## 🗂️ Curated Repository Catalog (व्यवस्थित रिपोजिटरी डायरेक्टरी)
 
-> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 7 मुख्य श्रेणियों में व्यवस्थित किया गया है (Auto-Synced via GitHub Actions):*
+> *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 9 मुख्य श्रेणियों में व्यवस्थित किया गया है:*
 
 ### 🎁 2. Free LLM Tokens & Zero-Cost AI Routing (फ्री टोकन्स एवं AI राउटर्स)
 | Repository | Description & Highlights | Core Stack | Status |
@@ -127,6 +127,12 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ---
 
+### 📱 9. Android Power-User Tools & Mobile Toolkits (एंड्रॉइड टूल्स एवं मोबाइल वर्कशॉप)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**Android-Tools**](https://github.com/Satyenderparihar/Android-Tools) | 📱 Curated & Categorized Android Power-User Suite — App Stores (komi-store), CarPlay Receivers (DiPlay), App Patchers (morphe-manager), Web-to-APK (web-to-app) & System Utilities (essentials). | Kotlin, Android SDK, Compose, Gradle | ![Android Tools](https://img.shields.io/badge/Android%20Tools-3DDC84?style=flat-square&logo=android&logoColor=white) |
+
+---
 
 <!-- AUTO-CATALOG:END -->
 
