@@ -126,6 +126,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎬 8. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**TextFieldEffects**](https://github.com/Satyenderparihar/TextFieldEffects) | ⚡ Custom UITextFields effects inspired by Codrops, built using Swift | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**VideoRepoClonerApp**](https://github.com/Satyenderparihar/VideoRepoClonerApp) | ⚡ 📱 Android App: scan Instagram/YouTube videos & clone GitHub repos with 1-click delete — No 20MB limit! | HTML | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**mac-precision-touchpad**](https://github.com/Satyenderparihar/mac-precision-touchpad) | ⚡ Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**replica-skill**](https://github.com/Satyenderparihar/replica-skill) | ⚡ Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
@@ -134,14 +135,6 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 ---
 
-
-
-### 📱 9. Android Power-User Tools & Mobile Toolkits (एंड्रॉइड टूल्स एवं मोबाइल वर्कशॉप)
-| Repository | Description & Highlights | Core Stack | Status |
-|---|---|---|:---:|
-| [**TextFieldEffects**](https://github.com/Satyenderparihar/TextFieldEffects) | 📱 Custom UITextFields effects inspired by Codrops, built using Swift | Swift | ![Mobile](https://img.shields.io/badge/Mobile-green?style=flat-square) |
-
----
 
 <!-- AUTO-CATALOG:END -->
 
