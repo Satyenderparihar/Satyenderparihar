@@ -135,6 +135,14 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ---
 
 
+
+### 📱 9. Android Power-User Tools & Mobile Toolkits (एंड्रॉइड टूल्स एवं मोबाइल वर्कशॉप)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**TextFieldEffects**](https://github.com/Satyenderparihar/TextFieldEffects) | 📱 Custom UITextFields effects inspired by Codrops, built using Swift | Swift | ![Mobile](https://img.shields.io/badge/Mobile-green?style=flat-square) |
+
+---
+
 <!-- AUTO-CATALOG:END -->
 
 ## 🎬 Featured Innovations Spotlight (विशेष हाईलाइट्स)
