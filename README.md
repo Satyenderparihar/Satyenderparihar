@@ -75,7 +75,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### ⚡ 4. Workflow Automation & Low-Code Pipelines (वर्कफ़्लो ऑटोमेशन)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**Deepesh-Studio-Automation**](https://github.com/Satyenderparihar/Deepesh-Studio-Automation) | ⚡ 🎬 Deepesh Studio: Master Video Production, Kinetic Typography, Google Flow AI Generation, Audio DSP & Categorized Skills Hub | Python | ![Automation](https://img.shields.io/badge/Automation-00ff88?style=flat-square) |
+| [**Deepesh-Studio-Automation**](https://github.com/Satyenderparihar/Deepesh-Studio-Automation) | ⚡ 🎬 Deepesh Studio: Master Video Production, Kinetic Typography, Google Flow AI Generation, Audio DSP & Categorized Skills Hub | JavaScript | ![Automation](https://img.shields.io/badge/Automation-00ff88?style=flat-square) |
 | [**instagram-agent-skill**](https://github.com/Satyenderparihar/instagram-agent-skill) | 📸 13 Claude Agent Skills for Instagram — 26 Proven Hook Formulas, Viral Reel Research, Caption Linter, Auto-Replies & Content Planner. | Python, Claude Skills, AI Agent | ![13 IG Skills](https://img.shields.io/badge/13%20IG%20Skills-00ff88?style=flat-square) |
 | [**openreply**](https://github.com/Satyenderparihar/openreply) | 💬 100% Free Manychat Alternative — Instagram Comment-to-DM, Follow-Gate, Multi-Account & CTR-Tracked Link Automation. | TypeScript, Next.js, Prisma, Docker | ![Manychat Alt](https://img.shields.io/badge/Manychat%20Alt-00ff88?style=flat-square) |
 | [**Scout**](https://github.com/Satyenderparihar/Scout) | 🎯 Free Multi-Platform Lead Generation Tool — Scrapes Instagram, LinkedIn, TikTok & Twitch, extracts bio emails & verifies via SMTP. | Python, Lead Gen, Scraper | ![Lead Gen](https://img.shields.io/badge/Lead%20Gen-00ff88?style=flat-square) |
@@ -94,6 +94,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎓 6. Computer Science, System Design & Developer Roadmaps (सॉफ्टवेयर इंजीनियरिंग एवं रोडमैप्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**build-your-own-x**](https://github.com/Satyenderparihar/build-your-own-x) | 🛠️ Master software engineering by recreating step-by-step your favorite technologies (Git, Docker, OS, DB, etc.) from scratch. | Markdown, Hands-on CS | ![Build from Scratch](https://img.shields.io/badge/Build%20from%20Scratch-ff007f?style=flat-square) |
 | [**public-apis**](https://github.com/Satyenderparihar/public-apis) | 🌐 World's largest collective list of free developer APIs for web development, software engineering & app integration. | REST APIs, Open Data | ![Public APIs](https://img.shields.io/badge/Public%20APIs-00e5ff?style=flat-square) |
 | [**project-guidelines**](https://github.com/Satyenderparihar/project-guidelines) | 📐 Comprehensive set of engineering best practices, project architecture standards & clean code conventions. | Engineering Standards, JS/TS | ![Best Practices](https://img.shields.io/badge/Best%20Practices-00ff88?style=flat-square) |
 | [**javascript-algorithms**](https://github.com/Satyenderparihar/javascript-algorithms) | ⚡ Algorithms & data structures implemented in JavaScript with deep explanations, complexity analysis & visual aids. | JavaScript, Algorithms, DSA | ![Algorithms](https://img.shields.io/badge/Algorithms-ffd700?style=flat-square) |
@@ -103,7 +104,6 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 | [**free-programming-books**](https://github.com/Satyenderparihar/free-programming-books) | 📚 Curated directory of thousands of free programming books, courses, cheatsheets & CS literature in every language. | Open Directory, Books | ![Books & Courses](https://img.shields.io/badge/Books%20%26%20Courses-ffd700?style=flat-square) |
 | [**system-design-primer**](https://github.com/Satyenderparihar/system-design-primer) | 🏛️ Master large-scale distributed system design. Comprehensive interview prep & real-world architectures. | Python, Distributed Systems | ![System Design](https://img.shields.io/badge/System%20Design-00ff88?style=flat-square) |
 | [**developer-roadmap**](https://github.com/Satyenderparihar/developer-roadmap) | 🧭 Interactive community-driven developer roadmaps, study plans and guides for modern software engineers. | TypeScript, React, Guides | ![Roadmaps](https://img.shields.io/badge/Roadmaps-00e5ff?style=flat-square) |
-| [**build-your-own-x**](https://github.com/Satyenderparihar/build-your-own-x) | 🛠️ Master software engineering by recreating step-by-step your favorite technologies (Git, Docker, OS, DB, etc.) from scratch. | Markdown, Hands-on CS | ![Build from Scratch](https://img.shields.io/badge/Build%20from%20Scratch-ff007f?style=flat-square) |
 
 ---
 
