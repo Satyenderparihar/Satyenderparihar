@@ -23,7 +23,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 - 🎯 **Target:** Consistent Systematic Alpha with strict 1:3+ Risk-to-Reward.
 - 📘 **Founder of [Genius Trading Wallah](https://github.com/Satyenderparihar/Genius-Trading-Wallah):** A comprehensive 100% Free Open-Source 15-Module Trading Masterclass (880+ lessons).
 - ⚡ **Zero-Cost AI Architect:** Leveraging open-source free token routers, 34+ free LLM providers, and serverless automation pipelines.
-- 💬 **DM for Mentorship & Inquiries:** Ready to elevate your execution? Reach out on Telegram / WhatsApp!
+- 💬 **DM for Mentorship & Inquiries:** Ready to elevate your execution? Reach out on [Telegram](https://t.me/GeniusTradingWallah) / [WhatsApp](https://wa.me/917976305274)!
 - 🇮🇳 Dedicated to elevating financial literacy and wealth independence in India.
 
 ---
@@ -249,16 +249,16 @@ The market is drawn to FVGs like a magnet. When the price retraces back into thi
 ## 📬 Connect with Genius Trading Wallah
 
 <p align="center">
-  <a href="https://youtube.com/@SatyenderParihar" target="_blank">
+  <a href="https://youtube.com/@geniustradingwallah" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="34">
   </a> &nbsp;
-  <a href="https://t.me/Satyamotivation" target="_blank">
+  <a href="https://t.me/GeniusTradingWallah" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="34">
   </a> &nbsp;
   <a href="https://wa.me/917976305274" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="34">
   </a> &nbsp;
-  <a href="https://www.instagram.com/satya_motivation" target="_blank">
+  <a href="https://www.instagram.com/geniustradingwallah" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="34">
   </a> &nbsp;
   <a href="https://www.facebook.com/share/18DVYhUP53/" target="_blank">
