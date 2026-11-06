@@ -227,29 +227,14 @@ The market is drawn to FVGs like a magnet. When the price retraces back into thi
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyenderparihar/Satyenderparihar/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satyenderparihar/Satyenderparihar/output/dist/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Satyenderparihar/Satyenderparihar/output/dist/github-snake.svg" width="100%" />
-  </picture>
-</p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Satyenderparihar&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" />
-  </a>
-</p>
 
 ---
 
 ## 📬 Connect with Genius Trading Wallah
 
 <p align="center">
-  <a href="https://youtube.com/@geniustradingwallah" target="_blank">
+  <a href="https://www.youtube.com/@geniustradingwallah?si=KKZ48vI85t-77U5d" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="34">
   </a> &nbsp;
   <a href="https://t.me/GeniusTradingWallah" target="_blank">
@@ -258,7 +243,7 @@ The market is drawn to FVGs like a magnet. When the price retraces back into thi
   <a href="https://wa.me/917976305274" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="34">
   </a> &nbsp;
-  <a href="https://www.instagram.com/geniustradingwallah" target="_blank">
+  <a href="https://www.instagram.com/geniustradingwallah?dlrf=amxtc3FiNXhzcmVm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="34">
   </a> &nbsp;
   <a href="https://www.facebook.com/share/18DVYhUP53/" target="_blank">
@@ -267,7 +252,7 @@ The market is drawn to FVGs like a magnet. When the price retraces back into thi
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E5B567&center=true&vCenter=true&width=620&lines=%22The+game+of+speculation+is+the+most+uniformly+fascinating+game+in+the+world.%22;%22...But+it+is+not+a+game+for+the+stupid,+the+mentally+lazy,+or+the+greedy.%22+-+Jesse+Livermore" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E5B567&center=true&vCenter=true&width=440&lines=%22The+game+of+speculation+is+the+most+uniformly+fascinating+game...%22;%22...not+a+game+for+the+stupid,+mentally+lazy,+or+greedy.%22+-+Jesse+Livermore" alt="Quote" />
 </p>
 
 ---
