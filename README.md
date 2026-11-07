@@ -52,9 +52,9 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**rea**](https://github.com/Satyenderparihar/rea) | ⚡ Reverse engineer anything with agents, from app behavior down to native binaries. | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**Agent-Reach**](https://github.com/Satyenderparihar/Agent-Reach) | 🤖 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**one-skill-to-rule-them-all**](https://github.com/Satyenderparihar/one-skill-to-rule-them-all) | 👁️ Task Observer & Meta-Skill for Claude Code — Observes coding workflows, captures corrections, and auto-generates custom skills for repeated tasks. | TypeScript, Meta-Skill, Agent Loop | ![Task Observer](https://img.shields.io/badge/Task%20Observer-ff007f?style=flat-square) |
-| [**rea**](https://github.com/Satyenderparihar/rea) | ⚡ Reverse engineer anything with agents, from app behavior down to native binaries. | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**how-to-vibecoding**](https://github.com/Satyenderparihar/how-to-vibecoding) | ⚡ Vibecoding 系列教程：从环境搭建到多智能体协作，涵盖 MCP、Skills、Agent 分工治理 | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**pentagi**](https://github.com/Satyenderparihar/pentagi) | ⚡ Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**Antigravity-to-API**](https://github.com/Satyenderparihar/Antigravity-to-API) | ⚡ Turn Antigravity into a local, OpenAI-compatible API and integrate it seamlessly with your own apps, tools, and AI agents. | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
@@ -93,8 +93,8 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎓 6. Computer Science, System Design & Developer Roadmaps (सॉफ्टवेयर इंजीनियरिंग एवं रोडमैप्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**build-your-own-x**](https://github.com/Satyenderparihar/build-your-own-x) | 🛠️ Master software engineering by recreating step-by-step your favorite technologies (Git, Docker, OS, DB, etc.) from scratch. | Markdown, Hands-on CS | ![Build from Scratch](https://img.shields.io/badge/Build%20from%20Scratch-ff007f?style=flat-square) |
 | [**public-apis**](https://github.com/Satyenderparihar/public-apis) | 🌐 World's largest collective list of free developer APIs for web development, software engineering & app integration. | REST APIs, Open Data | ![Public APIs](https://img.shields.io/badge/Public%20APIs-00e5ff?style=flat-square) |
+| [**build-your-own-x**](https://github.com/Satyenderparihar/build-your-own-x) | 🛠️ Master software engineering by recreating step-by-step your favorite technologies (Git, Docker, OS, DB, etc.) from scratch. | Markdown, Hands-on CS | ![Build from Scratch](https://img.shields.io/badge/Build%20from%20Scratch-ff007f?style=flat-square) |
 | [**project-guidelines**](https://github.com/Satyenderparihar/project-guidelines) | 📐 Comprehensive set of engineering best practices, project architecture standards & clean code conventions. | Engineering Standards, JS/TS | ![Best Practices](https://img.shields.io/badge/Best%20Practices-00ff88?style=flat-square) |
 | [**javascript-algorithms**](https://github.com/Satyenderparihar/javascript-algorithms) | ⚡ Algorithms & data structures implemented in JavaScript with deep explanations, complexity analysis & visual aids. | JavaScript, Algorithms, DSA | ![Algorithms](https://img.shields.io/badge/Algorithms-ffd700?style=flat-square) |
 | [**the-art-of-command-line**](https://github.com/Satyenderparihar/the-art-of-command-line) | 💻 Master the command line, in one page — essential Linux, macOS & Unix terminal techniques every engineer must know. | Bash, Shell, CLI | ![Terminal Mastery](https://img.shields.io/badge/Terminal%20Mastery-00e5ff?style=flat-square) |
@@ -109,7 +109,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📚 7. Open Directories & Knowledge Libraries (रिसोर्सेज एवं नॉलेज हब्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**Websites-Scrapes-Manually**](https://github.com/Satyenderparihar/Websites-Scrapes-Manually) | ⚡ 🌐 Curated Directory of Useful Websites, Media Streaming & Web Tools (Categorized & Deduplicated) | HTML | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**Websites-Scrapes-Manually**](https://github.com/Satyenderparihar/Websites-Scrapes-Manually) | ⚡ 🌐 Curated Directory of Useful Websites, Media Streaming & Web Tools (Categorized & Deduplicated) | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**Android-Tools**](https://github.com/Satyenderparihar/Android-Tools) | ⚡ 📱 Curated & Categorized Android Power-User Tools, App Patchers, CarPlay Receivers & APK Builders | Kotlin | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**Websites-Scrapers**](https://github.com/Satyenderparihar/Websites-Scrapers) | ⚡ 🌐 Automated YouTube Websites & AI Tools Directory Scrapers — Categorized, Deduplicated & Auto-Synced | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**projects_realestate**](https://github.com/Satyenderparihar/projects_realestate) | 🛠️ Build and Deploy a Real Estate React & Next.js Application. | JavaScript, React, Next.js | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
@@ -126,6 +126,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎬 8. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**mac-optimizer**](https://github.com/Satyenderparihar/mac-optimizer) | ⚡ ⚡ 1-Click Autonomous macOS Performance, Anti-Hang & Keyboard Latency Optimizer | Shell | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**VideoRepoClonerApp**](https://github.com/Satyenderparihar/VideoRepoClonerApp) | ⚡ 📱 Android App: scan Instagram/YouTube videos & clone GitHub repos with 1-click delete — No 20MB limit! | HTML | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**TextFieldEffects**](https://github.com/Satyenderparihar/TextFieldEffects) | ⚡ Custom UITextFields effects inspired by Codrops, built using Swift | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**mac-precision-touchpad**](https://github.com/Satyenderparihar/mac-precision-touchpad) | ⚡ Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
