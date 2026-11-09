@@ -109,8 +109,8 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📚 7. Open Directories & Knowledge Libraries (रिसोर्सेज एवं नॉलेज हब्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**Websites-Scrapes-Manually**](https://github.com/Satyenderparihar/Websites-Scrapes-Manually) | ⚡ 🌐 Curated Directory of Useful Websites, Media Streaming & Web Tools (Categorized & Deduplicated) | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**Android-Tools**](https://github.com/Satyenderparihar/Android-Tools) | ⚡ 📱 Curated & Categorized Android Power-User Tools, App Patchers, CarPlay Receivers & APK Builders | Kotlin | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
+| [**Websites-Scrapes-Manually**](https://github.com/Satyenderparihar/Websites-Scrapes-Manually) | ⚡ 🌐 Curated Directory of Useful Websites, Media Streaming & Web Tools (Categorized & Deduplicated) | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**Websites-Scrapers**](https://github.com/Satyenderparihar/Websites-Scrapers) | ⚡ 🌐 Automated YouTube Websites & AI Tools Directory Scrapers — Categorized, Deduplicated & Auto-Synced | Python | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
 | [**projects_realestate**](https://github.com/Satyenderparihar/projects_realestate) | 🛠️ Build and Deploy a Real Estate React & Next.js Application. | JavaScript, React, Next.js | ![DevTools](https://img.shields.io/badge/DevTools-00e5ff?style=flat-square) |
 | [**project-based-learning**](https://github.com/Satyenderparihar/project-based-learning) | 📚 Curated list of project-based tutorials in diverse programming languages. | Python, Multi-Stack | ![Resources](https://img.shields.io/badge/Resources-ffd700?style=flat-square) |
@@ -126,6 +126,8 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎬 8. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**WaEnhancer**](https://github.com/Satyenderparihar/WaEnhancer) | ⚡ WhatsApp tools for Android | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
+| [**WaEnhancerX**](https://github.com/Satyenderparihar/WaEnhancerX) | ⚡ WaEnhancer X - An open-source Xposed/LSPosed module for WhatsApp & WhatsApp Business with privacy tools, anti-delete, view-once media, Meta AI removal, and UI customization. | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**mac-optimizer**](https://github.com/Satyenderparihar/mac-optimizer) | ⚡ ⚡ 1-Click Autonomous macOS Performance, Anti-Hang & Keyboard Latency Optimizer | Shell | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**VideoRepoClonerApp**](https://github.com/Satyenderparihar/VideoRepoClonerApp) | ⚡ 📱 Android App: scan Instagram/YouTube videos & clone GitHub repos with 1-click delete — No 20MB limit! | HTML | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**TextFieldEffects**](https://github.com/Satyenderparihar/TextFieldEffects) | ⚡ Custom UITextFields effects inspired by Codrops, built using Swift | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
