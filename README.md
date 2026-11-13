@@ -126,7 +126,6 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎬 8. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**antigem-plugins**](https://github.com/Satyenderparihar/antigem-plugins) | ⚡ Custom AntiGem plugins and skills repository | JavaScript | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**WaEnhancer**](https://github.com/Satyenderparihar/WaEnhancer) | ⚡ WhatsApp tools for Android | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**WaEnhancerX**](https://github.com/Satyenderparihar/WaEnhancerX) | ⚡ WaEnhancer X - An open-source Xposed/LSPosed module for WhatsApp & WhatsApp Business with privacy tools, anti-delete, view-once media, Meta AI removal, and UI customization. | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**mac-optimizer**](https://github.com/Satyenderparihar/mac-optimizer) | ⚡ ⚡ 1-Click Autonomous macOS Performance, Anti-Hang & Keyboard Latency Optimizer | Shell | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
