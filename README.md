@@ -34,6 +34,13 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 
 > *नीचे सभी उपयोगी रिपोजिटरीज़ को उनकी विशेषज्ञता और डोमेन के आधार पर 7 मुख्य श्रेणियों में व्यवस्थित किया गया है (Auto-Synced via GitHub Actions):*
 
+### 📈 1. Financial Markets & Trading Systems (ट्रेडिंग एवं फिनटेक)
+| Repository | Description & Highlights | Core Stack | Status |
+|---|---|---|:---:|
+| [**500-AI-Agents-Projects**](https://github.com/Satyenderparihar/500-AI-Agents-Projects) | ⚡ The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. | Multi-Stack | ![Trading](https://img.shields.io/badge/Trading-00ff88?style=flat-square) |
+
+---
+
 ### 🎁 2. Free LLM Tokens & Zero-Cost AI Routing (फ्री टोकन्स एवं AI राउटर्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
@@ -86,6 +93,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📝 5. Free Office Suites & Desktop Productivity (फ्री ऑफिस एवं प्रोडक्टिविटी टूल्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**Satya-Anti-G-old**](https://github.com/Satyenderparihar/Satya-Anti-G-old) | ⚡ A mobile IDE wrapping antigravity cli, opencode , codex and claude cli to provide a full Android coding environment. Features an advanced code editor, integrated AI chat, built-in Git client, and full Termux terminal access for on-the-go development. | Multi-Stack | ![Productivity](https://img.shields.io/badge/Productivity-00ff88?style=flat-square) |
 | [**wordcraft**](https://github.com/Satyenderparihar/wordcraft) | 📝 100% Free Pure Rust clean-room Microsoft Word alternative — Native .docx support, classic Ribbon UI, zero telemetry, lightning fast. | Rust, Native Win32, docx | ![MS Word Alt](https://img.shields.io/badge/MS%20Word%20Alt-00ff88?style=flat-square) |
 
 ---
@@ -126,6 +134,9 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🎬 8. YouTube Automation & Social Media Bots (यूट्यूब एवं मीडिया बॉट्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**Satya-Anti-G**](https://github.com/Satyenderparihar/Satya-Anti-G) | ⚡ Satyanarayan Antigravity Mobile IDE & AI Autonomous Studio | Kotlin | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
+| [**software-replace-repos**](https://github.com/Satyenderparihar/software-replace-repos) | ⚡ ⚡ 5 Open-Source GitHub Repos that Replace Expensive SaaS Tools (Semrush, ElevenLabs, Higgsfield, Wispr Flow, Notion) | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
+| [**maya2-native**](https://github.com/Satyenderparihar/maya2-native) | ⚡ Maya TTS: streaming Indic + English text-to-speech (inference engine) | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**WaEnhancer**](https://github.com/Satyenderparihar/WaEnhancer) | ⚡ WhatsApp tools for Android | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**WaEnhancerX**](https://github.com/Satyenderparihar/WaEnhancerX) | ⚡ WaEnhancer X - An open-source Xposed/LSPosed module for WhatsApp & WhatsApp Business with privacy tools, anti-delete, view-once media, Meta AI removal, and UI customization. | Multi-Stack | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
 | [**mac-optimizer**](https://github.com/Satyenderparihar/mac-optimizer) | ⚡ ⚡ 1-Click Autonomous macOS Performance, Anti-Hang & Keyboard Latency Optimizer | Shell | ![YouTube Bot](https://img.shields.io/badge/YouTube%20Bot-ff0000?style=flat-square) |
