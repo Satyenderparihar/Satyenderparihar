@@ -93,7 +93,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 📝 5. Free Office Suites & Desktop Productivity (फ्री ऑफिस एवं प्रोडक्टिविटी टूल्स)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
-| [**Satya-Anti-G-old**](https://github.com/Satyenderparihar/Satya-Anti-G-old) | ⚡ A mobile IDE wrapping antigravity cli, opencode , codex and claude cli to provide a full Android coding environment. Features an advanced code editor, integrated AI chat, built-in Git client, and full Termux terminal access for on-the-go development. | Multi-Stack | ![Productivity](https://img.shields.io/badge/Productivity-00ff88?style=flat-square) |
+| [**Satya-Anti-G-old**](https://github.com/Satyenderparihar/Satya-Anti-G-old) | ⚡ A mobile IDE wrapping antigravity cli, opencode , codex and claude cli to provide a full Android coding environment. Features an advanced code editor, integrated AI chat, built-in Git client, and full Termux terminal access for on-the-go development. | Kotlin | ![Productivity](https://img.shields.io/badge/Productivity-00ff88?style=flat-square) |
 | [**wordcraft**](https://github.com/Satyenderparihar/wordcraft) | 📝 100% Free Pure Rust clean-room Microsoft Word alternative — Native .docx support, classic Ribbon UI, zero telemetry, lightning fast. | Rust, Native Win32, docx | ![MS Word Alt](https://img.shields.io/badge/MS%20Word%20Alt-00ff88?style=flat-square) |
 
 ---
