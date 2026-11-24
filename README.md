@@ -59,6 +59,7 @@ I am on an unyielding mission to bridge the gap between institutional market mec
 ### 🤖 3. AI Agents & Large Language Models (एआई एजेंट्स एवं एलएलएम)
 | Repository | Description & Highlights | Core Stack | Status |
 |---|---|---|:---:|
+| [**skillsclau.de**](https://github.com/Satyenderparihar/skillsclau.de) | ⚡ ⚡ Claude Skills Library (skillsclau.de) — 33,971+ skills for Claude Code, Antigravity & AI agents with 100% autonomous daily auto-sync. | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**rea**](https://github.com/Satyenderparihar/rea) | ⚡ Reverse engineer anything with agents, from app behavior down to native binaries. | Multi-Stack | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**Agent-Reach**](https://github.com/Satyenderparihar/Agent-Reach) | 🤖 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python | ![AI-Agent](https://img.shields.io/badge/AI-Agent-7928ca?style=flat-square) |
 | [**one-skill-to-rule-them-all**](https://github.com/Satyenderparihar/one-skill-to-rule-them-all) | 👁️ Task Observer & Meta-Skill for Claude Code — Observes coding workflows, captures corrections, and auto-generates custom skills for repeated tasks. | TypeScript, Meta-Skill, Agent Loop | ![Task Observer](https://img.shields.io/badge/Task%20Observer-ff007f?style=flat-square) |
